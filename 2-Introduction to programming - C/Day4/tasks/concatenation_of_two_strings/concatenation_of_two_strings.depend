@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666182057 source:e:\courses\iti\3-iti 9-month sd web development and bi\2-c programming language\day4\concatenation_of_two_strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667494754 source:e:\courses\iti\3-iti 9-month sd web development and bi\4-oop c++\day7\tasks\task3_drawing_graphics_last\main.cpp
+	<iostream>
+	"C:\Program Files\CodeBlocks\MinGW\include\graphics.h"
+	<conio.h>
+
+1667305762 c:\program files\codeblocks\mingw\include\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+

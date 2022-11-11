@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - Page 4</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <form class="registration" action="welcome.html" method="get">
+        <table>
+            <tr>
+                <td><label for="fname">First Name</label></td>
+                <td><input id="fname" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="lname">Last Name</label></td>
+                <td><input id="lname" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="pass">Password</label></td>
+                <td><input id="pass" type="password"></td>
+            </tr>
+            <tr>
+                <td rowspan="2"><label for="gender">Gender</label></td>
+                <td class="gender">
+                    <input id="male" type="radio" name="gender" id="gender" value="male">
+                    <label for="male">Male</label>
+                </td>
+            </tr>
+            <tr>
+                <td class="gender">
+                    <input id="female" type="radio" name="gender" id="gender" value="female">
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="birthday">Birthday:</label>
+                    <select name="birthday" id="birthday">
+                        <option>[Select a Month]</option>
+                        <option value="1">Jan</option>
+                        <option value="2">Feb</option>
+                        <option value="3">Mar</option>
+                        <option value="4">Apr</option>
+                        <option value="5">May</option>
+                        <option value="6">Jun</option>
+                        <option value="7">Jul</option>
+                        <option value="8">Aug</option>
+                        <option value="9">Sep</option>
+                        <option value="10">Oct</option>
+                        <option value="11">Nov</option>
+                        <option value="12">Dec</option>
+                    </select>
+                </td>
+                <td>
+                    <input class="birthday" type="text" name="day" id="day" placeholder="dd">
+                    <input class="birthday" type="text" name="year" id="year" placeholder="yy">
+                </td>
+            </tr>
+            <tr>
+                <td class="interests" colspan="2"><h2><u>Interests</u></h2></td>
+            </tr>
+            <tr>
+                <td>
+                    <input class="hobbies" type="checkbox" name="hobbies" id="sports">
+                    <label for="sports">Sports</label>
+                </td>
+                <td>
+                    <input class="hobbies" type="checkbox" name="hobbies" id="music">
+                    <label for="music">Music</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input class="hobbies" type="checkbox" name="hobbies" id="books">
+                    <label for="books">Books</label>
+                </td>
+                <td>
+                    <input class="hobbies" type="checkbox" name="hobbies" id="comp">
+                    <label for="comp">Computer Stuff</label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input class="hobbies" type="checkbox" name="hobbies" id="fashion">
+                    <label for="fashion">Fashion</label>
+                </td>
+                <td>
+                    <input class="hobbies" type="checkbox" name="hobbies" id="movies">
+                    <label for="movies">Movies</label>
+                </td>
+            </tr>
+            
+            <tr >
+                <td style="text-align: center;" colspan="2">
+                    <input type="submit" value="submit" style="width:auto ;"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+    
+</body>
+</html>

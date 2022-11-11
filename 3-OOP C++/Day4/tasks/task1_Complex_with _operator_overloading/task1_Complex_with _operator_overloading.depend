@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667300311 source:e:\courses\iti\3-iti 9-month sd web development and bi\4-oop c++\day3\tasks\task1_complex_with _operator_overloading\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<conio.h>
+

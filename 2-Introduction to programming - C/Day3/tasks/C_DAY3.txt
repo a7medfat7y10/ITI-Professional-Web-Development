@@ -1,0 +1,10 @@
+Assignments:
+      	1) Input and output an array using 2 for loops.
+      	2) Get Minimum and Maximum value of an array.
+      	3) Calculate sum of each row in a 2D Array.
+      	4) Bonus: Calculate average of each column in a 2D Array.
+
+	5)two matrices 3*2 , 2*1 multiplied -->3*1
+	6)take rows and columns from user for the two matrices 
+	columns for the first must be the same as rows for the second matrix 
+	n*m, m*k

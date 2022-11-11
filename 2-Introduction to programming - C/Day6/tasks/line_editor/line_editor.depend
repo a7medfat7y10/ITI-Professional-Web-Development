@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666568844 source:e:\courses\iti\3-iti 9-month sd web development and bi\2-c programming language\day6\tasks\line_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

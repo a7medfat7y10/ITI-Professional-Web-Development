@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666271459 source:e:\courses\iti\3-iti 9-month sd web development and bi\2-c programming language\day5\tasks\three_employee_new_display\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
