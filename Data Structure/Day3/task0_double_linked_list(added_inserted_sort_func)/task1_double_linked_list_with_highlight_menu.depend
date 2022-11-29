@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669035536 source:e:\courses\iti\3-iti 9-month sd web development and bi\8-data structure\day1\task1_double_linked_list_with_highlight_menu\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iostream>
+
+1669273646 source:e:\courses\iti\3-iti 9-month sd web development and bi\8-data structure\day1\tasks\task1_double_linked_list_with_highlight_menu\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iostream>
+

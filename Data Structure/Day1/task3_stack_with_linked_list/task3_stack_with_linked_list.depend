@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669081673 source:e:\courses\iti\3-iti 9-month sd web development and bi\8-data structure\day1\task3_stack_with_linked_list\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iostream>
+
