@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Pic</title>
+    <style>
+        .box{
+            border: 5px solid #000;
+            width: 400px;
+            height: 400px;
+            position: relative;
+        }
+        .one{
+            position: absolute;
+            top:180px;
+            left:355px;
+        }
+        .two{
+            position: absolute;
+            top:180px;
+            left:0;
+        }
+        .three{
+            position: absolute;
+            top:360px;
+            left:180px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="box">
+        <img class="one" src="imgs/icon1.gif" alt="">
+        <img class="two" src="imgs/icon2.gif" alt="">
+        <img class="three" src="imgs/TOP.JPG" alt="">
+    </div>
+
+    <br>
+    <input type="button" value="Go" id="go">
+    <input type="button" value="Reset" id="reset">
+    
+    <script src="script.js"></script>
+</body>
+</html>

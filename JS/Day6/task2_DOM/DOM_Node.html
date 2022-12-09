@@ -1,0 +1,58 @@
+<html>
+
+<head>
+    <style>
+        .center {
+            text-align: center;
+        }
+        .left{
+            text-align: left;
+        }
+        .right{
+            text-align: right;
+        }
+        .ul_bullet{
+            list-style-type: circle
+        }
+    </style>
+</head>
+
+<body>
+    <div class="center">
+        <div id="header">
+
+            <img src="dom.jpg" alt="hello..it rains over here:)" />
+        </div>
+        <div id="navigation">
+            <ul id="nav">
+                <li><strong>Memo</strong></li>
+                <li><a href="#">Articles</a></li>
+                <li><a href="#">Photos</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Clients</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+
+    <script>
+        var img_div = document.body.firstElementChild.firstElementChild;
+
+        var cloned_img_div = img_div.cloneNode(true);
+        cloned_img_div.id = "footer";
+        img_div.parentElement.classList.remove("center");
+        img_div.classList.add("right");
+        img_div.nextElementSibling.classList.add("center");
+        cloned_img_div.classList.add("left");
+
+        var div_first = document.body.firstElementChild;
+        div_first.append(cloned_img_div);
+
+        var ul_nav = div_first.firstElementChild.nextElementSibling.firstElementChild;
+        ul_nav.classList.add("ul_bullet");
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 1</title>
+    <style>
+        input{
+            display: block;
+            margin-bottom: 10px;
+            padding: 10px;
+            width: 90%;
+        }
+        form{
+            padding: 20px;
+            border: 1px solid #000;
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+    <form method="get" action="welcome.html">
+        <label for="username">Name</label>
+        <input type="text" id="username" name="username" placeholder="Enter your Name" required>
+        <label for="title">Title</label>
+        <input type="text" id="title" name="title" placeholder="Enter your title" required>
+        <label for="address">Address</label>
+        <input type="text" id="address" name="address" placeholder="Enter your address" required>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <label for="mobile">Mobile</label>
+        <input type="text" id="mobile" name="mobile" placeholder="Enter your mobile" required>
+        <label for="male"> Male</label>
+        <input type="radio" style="display: inline;" id="male" name="gender" value="imgs/1.jpg">
+        <label for="female"> Female</label>
+        <input type="radio" style="display: inline;" id="female" name="gender" value="imgs/2.jpg">
+        <input type="submit" style="width: 20%;">
+    </form>
+</body>
+</html>

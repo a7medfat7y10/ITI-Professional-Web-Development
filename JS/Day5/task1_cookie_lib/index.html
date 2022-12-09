@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+</head>
+<body>
+    <div>
+        <label for="username">Enter Your Name</label>
+        <input type="text" name="username" id="username">
+        <br>
+        <br>
+        <label for="age">Enter Your Age</label>
+        <input type="text" name="age" id="age">
+        <br>
+        <br>
+        <label>Enter Your Gender</label>
+        <br>
+        <input type="radio" id="male" name="gender" value="imgs/1.jpg">
+        <label for="male"> <img src="imgs/1.jpg" alt=""></label>
+        <input type="radio" id="female" name="gender" value="imgs/2.jpg">
+        <label for="female"> <img src="imgs/2.jpg" alt=""></label>
+        <br>
+        <br>
+        <label for="fav_color">Select Your Favourite color</label>
+        <select name="fav_color" id="fav_color">
+            <option class="color" value="Red">Red</option>
+            <option class="color" value="Blue">Blue</option>
+            <option class="color" value="Green">Green</option>
+        </select>
+        <br>
+        <br>
+        <input type="submit" id="submit" value="Register">
+    </div>
+
+    <script src="cookie_lib.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

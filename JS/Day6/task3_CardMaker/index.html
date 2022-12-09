@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Maker</title>
+    <style>
+        img{
+            width: 200px;
+            height: 200px;
+        }
+        h1{
+            text-align: center;
+            color: #888;
+        }
+        .form{
+            width: 600px;
+            margin:auto;
+        }
+        .personal_msg{
+            width: 600px;
+            height: 150px;
+        }
+        #generate
+        {
+            width: 100px;
+            margin-left: 300px;
+            height: 40px;
+        }
+        body{
+            background-color: #FAE9D7;
+        }
+        input{
+            margin-left:10px ;
+        }
+        input[type="radio"]
+        {
+            display: block;
+            width: 200px;
+            margin-bottom: 10px;
+        }
+        .option{
+            width: 33%;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Generate Get Well Soon Card</h1>
+
+    <div class="form">
+        <div class="option">
+            <label for="img_1"><img src="imgs/gws.jpg" alt=""></label>
+            <input type="radio" name="design_img" id="img_1" value="imgs/gws.jpg" checked>
+        </div>
+        
+        
+        <div class="option">
+            <label for="img_2"><img src="imgs/gws2.jpg" alt=""></label>
+            <input type="radio" name="design_img" id="img_2" value="imgs/gws2.jpg">
+        </div>
+        
+
+        <div class="option">
+            <label for="img_3"><img src="imgs/gwsf.jpg" alt=""></label>
+            <input type="radio" name="design_img" id="img_3" value="imgs/gwsf.jpg">
+        </div>
+        
+
+        
+        <div class="option">
+            <label for="img_4"><img src="imgs/gwsf2.jpg" alt=""></label>
+            <input type="radio" name="design_img" id="img_4" value="imgs/gwsf2.jpg">
+        </div>
+
+       <div class="option">
+            <label for="img_5"><img src="imgs/gwsf2.png" alt=""></label>
+            <input type="radio" name="design_img" id="img_5" value="imgs/gwsf2.png">
+       </div>
+
+       <div class="option"> 
+            <label for="img_6"><img src="imgs/gwsf3.jpg" alt=""></label>
+            <input type="radio" name="design_img" id="img_6" value="imgs/gwsf3.jpg">
+       </div>
+        
+
+        <textarea placeholder="Personal Message..." class="personal_msg" id="personal_msg"></textarea>
+        
+        <input type="submit" value="Generate" name="generate" id="generate">
+    </div>
+
+
+    
+    <script src="script.js"></script>
+</body>
+</html>
