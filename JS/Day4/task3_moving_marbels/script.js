@@ -10,12 +10,7 @@ images[0].src = "imgs/marble3.jpg";
 function animate()
 {
     timer = setInterval(function(){
-        if(current == 0)
-        {
-            images[0].src = "imgs/marble1.jpg";
-            images[++current].src = "imgs/marble3.jpg";   
-        }
-        else if(current == images.length-1)
+        if(current == images.length-1)
         {
             images[current].src = "imgs/marble1.jpg";
             current = 0;
@@ -23,7 +18,8 @@ function animate()
         }  
         else{
             images[current].src = "imgs/marble1.jpg";
-            images[++current].src = "imgs/marble3.jpg";
+            current++;
+            images[current].src = "imgs/marble3.jpg";
         }        
     }, 1000)
 }

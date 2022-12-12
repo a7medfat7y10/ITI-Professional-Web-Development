@@ -1,13 +1,25 @@
 //function to get the queries splitted
-function getUrlQueries() {
-    var queries = {};
-    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
-        queries[key] = value;
-    });
-    return queries;
+// function getUrlQueries() {
+//     var queries = {};
+//     var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+//         queries[key] = value;
+//     });
+//     return queries;
+// }
+
+// var queries = getUrlQueries();
+
+
+var queries = [];
+var url = location.search;
+url = url.substring(1, url.length);
+url = url.split("&");
+for(i in url)
+{
+    queries[url[i].split("=")[0]] = url[i].split("=")[1];
 }
 
-var queries = getUrlQueries();
+console.log(url);
 
 var username = queries.username;
 var title = queries.title;
