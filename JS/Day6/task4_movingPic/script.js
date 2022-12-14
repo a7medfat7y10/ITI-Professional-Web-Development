@@ -51,6 +51,12 @@ function play()
         left_of_img_left = getComputedStyle(img_left).left;
         top_of_img_bottom = getComputedStyle(img_bottom).top;
 
+        document.getElementById("tags").innerHTML = "&lt;img src= \"imgs/icon1.gif\" " + "style = \" left:" 
+        + left_of_img_left + "\" &gt; &lt;img&gt;" ;
+        document.getElementById("tags").innerHTML += "<br>&lt;img src= \"imgs/icon2.gif\" " + "style = \" left:" 
+        + left_of_img_right + "\" &gt; &lt;img&gt;" ;
+        document.getElementById("tags").innerHTML += "<br>&lt;img src= \"imgs/TOP.gif\" " + "style = \" top:" 
+        + top_of_img_bottom + "\" &gt; &lt;img&gt;" ;
 
 
         //image one(right)

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:element name="family">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="grandfather"></xs:element>
+            </xs:sequence>
+            <xs:attribute name="name"></xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="grandfather">
+        <xs:complexType mixed="true">
+            <xs:sequence>
+                <xs:element ref="father"></xs:element>
+                <xs:element name="uncle" maxOccurs="unbounded"></xs:element>
+                <xs:element ref="aunt"></xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="aunt">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute name="sons" type="xs:int">
+
+                    </xs:attribute>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="father">
+        <xs:complexType mixed="true">
+            <xs:sequence>
+                <xs:element ref="mother"></xs:element>
+                <xs:element ref="daughter"></xs:element>
+                <xs:element ref="son"></xs:element>
+            </xs:sequence>
+            <xs:attribute name="job"></xs:attribute>
+        </xs:complexType>
+
+    </xs:element>
+
+
+
+    <xs:element name="mother">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute name="name" type="xs:string">
+                        
+                    </xs:attribute>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+
+    
+    <xs:element name="daughter">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute name="age" type="xs:string">
+                        
+                    </xs:attribute>
+                    <xs:attribute name="job" type="xs:string">
+                        
+                    </xs:attribute>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="son">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:string">
+                    <xs:attribute name="age" type="xs:string">
+                        
+                    </xs:attribute>
+                    <xs:attribute name="sport" type="xs:string">
+                        
+                    </xs:attribute>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+
+
+</xs:schema>
