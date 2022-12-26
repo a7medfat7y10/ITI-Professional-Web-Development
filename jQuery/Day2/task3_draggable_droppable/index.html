@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task3</title>
+    <style>
+        .blackhole{
+            width: 50%;
+            display: inline-block;
+        }
+        .rabbit{
+            width: 20%;
+            display: inline-block;
+            cursor: move;
+        }
+    </style>
+
+</head>
+<body>
+    <div id="droppable" class="blackhole">
+        <img src="imgs/3.JPG" alt="">
+    </div>
+    <div id="draggable" class="rabbit">
+        <img style="width: 80px;" src="imgs/2.jpg" alt="">
+    </div>
+    
+
+    <script src="js/JqueryDev.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script>
+    $( function() {
+        $( "#draggable" ).draggable();
+        $( "#droppable" ).droppable({
+            drop: function( event, ui ) {
+                $("#draggable").hide("explode", 3000);
+            }
+        });
+    });
+    </script>
+</body>
+</html>

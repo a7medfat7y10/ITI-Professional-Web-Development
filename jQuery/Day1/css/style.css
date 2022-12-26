@@ -1,0 +1,77 @@
+.menu .list{
+    list-style: none;
+    width:70%;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.menu .list li {
+    text-align: center;
+    width: 24%;
+    float: left;
+    background-color: #00F;
+    color: #FFF;
+    height: 70px;
+    line-height: 70px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+.container .component{
+    height: 350px;
+}
+.container .about, .container .form, .container .preview{
+    width: 40%;
+    margin: auto;
+    box-shadow: 3px 5px 9px 5px #888888;
+    text-align: center;
+    padding: 10px;
+}
+.container .about
+{
+    line-height: 350px;
+}
+.services .drop-down{
+    position: absolute;
+    width: 200px;
+    left: 782px;
+    top: 65px;
+}
+.services .drop-down li {
+    list-style: none;
+    background-color: #00F;
+    height: 50px;
+    color: #FFF;
+    margin-top: 5px;
+    line-height: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.gallery .left, .gallery .right {
+    width: 50px;
+    position: absolute;
+    top: 270px;
+    cursor: pointer;
+}
+
+.gallery .left {
+    left:470px
+}
+.gallery .right {
+    left:1014px
+}
+.gallery {
+    text-align: center;
+}
+.gallery img {
+    width: 266px;
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jquery Task</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="menu">
+        <ul class="list">
+            <li class="about-li">About</li>
+            <li class="gallery-li">Gallery</li>
+            <li class="services-li">Services</li>
+            <li class="complain-li">Complain</li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <div class="about component">
+            This is the About page, welcome!
+        </div>
+
+
+
+        <div class="gallery component">
+            <img class="left" src="imgs/left.png">
+            <img class="image" src="imgs/1.jpg" alt="">
+            <img class="image" src="imgs/2.jpg" alt="">
+            <img class="image" src="imgs/3.jpg" alt="">
+            <img class="image" src="imgs/4.jpg" alt="">
+            <img class="image" src="imgs/5.jpg" alt="">
+            <img class="image" src="imgs/6.jpg" alt="">
+            <img class="image" src="imgs/7.jpg" alt="">
+            <img class="image" src="imgs/8.jpg" alt="">
+            <img class="right" src="imgs/right.png">
+        </div>
+        
+        
+        <div class="services component">
+            <ul class="drop-down">
+                <li>Item #1</li>
+                <li>Item #2</li>
+                <li>Item #3</li>
+            </ul>
+        </div>
+        
+        
+        <div class="complain component">
+
+            <div class="form">
+                <label for="name">Name</label>
+                <input id="name" type="text"/>
+                <br/>
+                <label for="email">Email</label>
+                <input id="email" type="text"/>
+                <br/>
+                <label for="phone">Phone</label>
+                <input id="phone" type="text"/>
+                <br/>
+                <label for="msg">Complain</label>
+                <br/>
+                <textarea name="" id="msg" cols="30" rows="10"></textarea>
+                <br>
+                <button id="send">Send</button>
+            </div>
+
+            <div class="preview">
+                <p class="name">name</p>
+                <p class="email">email</p>
+                <p class="phone">phone</p>
+                <p class="msg">complain</p>
+                <button id="back">Back to complain</button>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="js/JqueryDev.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
