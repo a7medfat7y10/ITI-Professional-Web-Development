@@ -119,7 +119,8 @@ as
 insert into HR.Employee values (1018, 'ahmeds' , 'alis' , 'd3',3254)
 
 
---7.	Create a trigger on student table after insert to add Row in Student Audit table (Server User Name , Date, Note) where note will be “[username] Insert New Row with Key=[Key Value] in table [table name]”
+--7.	Create a trigger on student table after insert to add Row in Student Audit table 
+--(Server User Name , Date, Note) where note will be “[username] Insert New Row with Key=[Key Value] in table [table name]”
 --Server User Name		Date Note 
 		
 USE ITI
@@ -133,27 +134,27 @@ alter trigger t4
 on Student
 after insert
 as
-	declare @val varchar(50)
-	select @val=st_id from inserted
-	
 	insert into StudentAudit (serverUserName , myDate , Note)
-	select SUSER_SNAME() , GETDATE() , concat(SUSER_NAME() ,'Insert Row with Key' , @val , 'in Sutdent') 
-	from Student where St_Id in (select St_Id from inserted )
+	select SUSER_SNAME() , GETDATE() , concat(SUSER_NAME() ,' Inserted id ' , St_Id , ' in Sutdent ') 
+	from Student where St_Id in (select st_id from inserted)
 	
-	--tset
-	insert into Student values(17, 'akaa', 'ader', 'octon', 32, 20,9)
+	--test
+	insert into Student values(40,'ahmed', 'fathy', 'cairo', 24, 20,9)
 
---8.	 Create a trigger on student table instead of delete to add Row in Student Audit table (Server User Name, Date, Note) where note will be“ try to delete Row with Key=[Key Value]”
+--8.	 Create a trigger on student table instead of delete 
+--to add Row in Student Audit table (Server User Name, Date, Note) where note will be
+--“ try to delete Row with Key=[Key Value]”
 alter trigger t5
 on Student
 instead of delete
 as
-	declare @myval int 
-	select  @myval =St_Id  from deleted
 
 	insert into StudentAudit  (serverUserName , myDate , Note)
-	select SUSER_SNAME() , GETDATE() , SUSER_NAME() + 'try to delete' + cast(@myval as varchar(50)) + 'in Sudent'
+	select SUSER_SNAME() , GETDATE() , concat(SUSER_NAME(), ' try to delete ' , St_Id, 'in Sudent')
+	from Student where St_Id in (select st_id from deleted)
 
+	--test
+	delete from Student where Student.St_Id= 37
 
 	
 use AdventureWorks2012

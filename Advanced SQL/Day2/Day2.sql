@@ -82,7 +82,9 @@ returns table
 as
 	return 
 		(
-			select d.Dept_Manager, d.Dept_Name, d.Manager_hiredate from Department d
+			select i.Ins_Id, d.Dept_Name, d.Manager_hiredate 
+			from Instructor i, Department d 
+			where d.Dept_Id = i.Dept_Id
 		)
 
 --calling
