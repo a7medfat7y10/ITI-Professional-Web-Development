@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: blue;
+    color: white;
+    height: 80px;    
+    text-align: center;
+    line-height: 80px;
+}
+footer{
+    background-color: blue;
+    color: white;
+    height: 80px;    
+    text-align: center;
+    line-height: 80px;
+}
+
+.content{
+    display: flex;
+    text-align: center;
+    height: calc(100vh - 160px) ;
+    line-height: calc(100vh - 160px) ;
+}
+.left, .right{
+    background-color:rgb(61, 51, 37);
+    color: white;
+    flex-grow: 1;
+}
+.middle{
+    background-color: aqua;
+    flex-grow: 2;
+}
+
+@media (max-width:600px) {
+    .content{
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 240px;
+        line-height: 80px;
+    }
+}

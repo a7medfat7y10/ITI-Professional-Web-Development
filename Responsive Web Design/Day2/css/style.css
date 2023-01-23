@@ -1,0 +1,26 @@
+body{
+    background-color: #F0F0F0;
+}
+.header{
+    padding: 20px;
+}
+.header .container h3{
+    font-weight: bold;
+}
+.image {
+    background-image: url('/Images/intro_flower.png');
+    background-size: cover;
+    height: 400px;
+    border-radius: 15px;
+}
+.card{
+    background-color: #F0F0F0;
+}
+
+.side-bar{
+    background-color: #E3E3E3;
+}
+
+.footer a{
+    color: #E3E3E3;
+}
