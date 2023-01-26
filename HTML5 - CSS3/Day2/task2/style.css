@@ -1,0 +1,7 @@
+img{
+    transition: all 3s ease-in-out;
+    opacity: 1;
+}
+img:hover{
+    opacity: 0;
+}

@@ -1,0 +1,25 @@
+button{
+    background-color: rgb(127, 174, 255);
+    color: white;
+    display: block;
+    margin: auto;
+    width: 180px;
+    height: 70px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    border: none;
+    margin-top: 200px;
+}
+button:hover{
+    animation: hover-eff 2s linear;
+    animation-iteration-count: infinite;
+}
+@keyframes hover-eff {
+    from {
+        background-color: rgb(127, 174, 255);
+    }
+    to {
+        background-color: blue;
+    }
+}

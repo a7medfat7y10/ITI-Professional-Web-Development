@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task_one</title>
+    <style>
+        .a, .b, .c {
+            position: absolute;
+            font-size: 22px;
+        }
+        .a {
+            top: 400px;
+            left: 320px;
+        }
+        .b{
+            top: 250px;
+            left: 415px;
+        }
+        .c{
+            top: 250px;
+            left: 300px;
+        }
+        p{
+            font-weight: bold;
+            font-size: 22px;
+        }
+        math{
+            font-size: 22px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="triangle-container" style="position: relative;">
+	  <svg height="500" width="500">
+		    <polygon points="400,100 250,400 400,400" class="triangle" fill="red" />
+	  </svg>
+      <span class="a">a</span>
+      <span class="b">b</span>
+      <span class="c">c</span>
+    </div>
+    <p>
+        According to Pythagoras theorem:
+    </p>
+    <math xmlns = "http://www.w3.org/1998/Math/MathML">
+        <mrow>
+            <msup>
+                <mi>c</mi>
+            </msup>
+            <mo> = </mo>
+            <msqrt>
+                <msup>
+                    <mi>a</mi>
+                    <mn>2</mn>
+                </msup>
+               
+                <mo>+</mo>
+                   
+                <msup>
+                    <mi>b</mi>
+                    <mn>2</mn>
+                </msup>
+            </msqrt>
+        </mrow>
+           
+     </math>
+    <script src="script.js"></script>
+</body>
+</html>

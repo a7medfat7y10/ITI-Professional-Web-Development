@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task5</title>
+</head>
+<body>
+    <canvas id="c1" width="500" height="500"></canvas>
+    <script>
+        var canvas = document.getElementById("c1");
+        var ctx = canvas.getContext('2d');
+
+        ctx.beginPath();
+        var my_gradient = ctx.createLinearGradient(200, 100, 200, 250);
+        my_gradient.addColorStop(0, "#3f4deb");
+        my_gradient.addColorStop(1, "white");
+        ctx.fillStyle = my_gradient;
+        ctx.fillRect(50, 100, 450, 250);
+        ctx.closePath();
+
+        ctx.beginPath();
+        var my_gradient2 = ctx.createLinearGradient(250, 250, 250, 400);
+        my_gradient2.addColorStop(0, "lightgreen");
+        my_gradient2.addColorStop(1, "white");
+        ctx.fillStyle = my_gradient2;
+        ctx.fillRect(50, 250, 450, 400);
+        ctx.closePath();
+
+
+        ctx.beginPath();
+        var my_gradient3 = ctx.createLinearGradient(250, 200, 250, 400);
+        my_gradient3.addColorStop(0, "black");
+        my_gradient3.addColorStop(1, "white");
+        ctx.moveTo(180,300);
+        ctx.lineTo(180,200);
+        ctx.lineTo(320,200);
+        ctx.lineTo(320,300);
+        ctx.strokeStyle = my_gradient3;
+        ctx.lineWidth = 3;
+        ctx.stroke();
+        ctx.closePath();
+    </script>
+</body>
+</html>

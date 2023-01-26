@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task8</title>
+</head>
+<body>
+    <canvas id="c1" width="500" height="500"></canvas>
+
+    <script>
+        var canvas = document.getElementById('c1');
+        var ctx = canvas.getContext('2d');
+        var angle = 0, direction = 1;
+        ctx.globalAlpha = 0.5;
+
+        setInterval(function(){
+            ctx.save();
+            ctx.beginPath();
+            ctx.translate(200, 200);
+            ctx.rotate(angle * Math.PI / 180);
+            ctx.rect(0 , 5, 120, 40);
+            ctx.fillStyle = 'blue';
+            ctx.fill();
+            ctx.restore();
+
+            angle += (20*direction);
+
+            if (angle >= 360 || angle <= 0){
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                direction *= -1;
+            }
+        },300)
+    </script>
+</body>
+</html>

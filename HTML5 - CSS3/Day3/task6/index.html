@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task6</title>
+</head>
+<body>
+    <canvas id="c1" width="500" height="500"></canvas>
+
+    <script>
+        var canvas = document.getElementById("c1");
+        var ctx = canvas.getContext('2d');
+        ctx.beginPath();
+        var gradient1 = ctx.createLinearGradient(250, 50, 450, 400);
+        gradient1.addColorStop(0, "darkblue");
+        gradient1.addColorStop(1, "white");
+        ctx.arc(250,250,200,0,2*Math.PI)
+        ctx.fillStyle = gradient1;
+        ctx.fill();
+        ctx.closePath();
+
+        ctx.beginPath();
+        var gradient2 = ctx.createLinearGradient(420, 400, 50, 50);
+        gradient2.addColorStop(0, "darkblue");
+        gradient2.addColorStop(1, "white");
+        ctx.arc(250,250,170,0,2*Math.PI)
+        ctx.fillStyle = gradient2;
+        ctx.fill();
+        ctx.closePath();
+
+        ctx.beginPath()
+        ctx.moveTo(130, 370);
+        ctx.lineTo(250, 100);
+        ctx.lineTo(370, 370);
+        ctx.moveTo(330, 270);
+        ctx.lineTo(180, 270);
+        ctx.lineWidth=18;
+        ctx.strokeStyle="white";
+        ctx.stroke();
+        ctx.closePath();
+    </script>
+</body>
+</html>

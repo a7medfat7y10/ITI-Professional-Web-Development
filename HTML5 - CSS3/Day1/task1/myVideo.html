@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task 1</title>
+    <style>
+        .container {
+            width: 800px;
+            margin: auto;
+        }
+        input[type="button"]{
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            background-color: rgb(0 117 255);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        input[type="range"]{
+            position: relative;
+            top: 7px;
+        }
+
+        #progress {
+            width: 90%;
+        }
+        .controls:nth-of-type(2){
+            width: 700px;
+            margin: auto;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <video id="my_video" src="video/frozen.mp4" width="800" height="500" controls poster="image/frozen.jpg">
+
+        </video>
+        <div class="controls" style="margin-bottom: 15px;">
+            <input id="progress" type="range" min="0" max="110" step="1" value="0" onchange="bar()">
+            <span id="time"></span>
+            <input type="button" value="[ ]" onclick="fullscreen()">
+        </div>
+        <div class="controls">
+            <input type="button" value="Play" onclick="vid_play()">
+            <input type="button" value="Stop" onclick="vid_stop()">
+            <input type="button" value="&lt;&lt;" onclick="to_start()">
+            <input type="button" value="&lt;" onclick="backfive()">
+            <input type="button" value="&gt;" onclick="forwardfive()">
+            <input type="button" value="&gt;&gt;" onclick="to_end()">
+            <label for="sound">Sound</label>
+            <input id="sound" type="range" min="0" max="100" step="1" value="80" oninput="sound()">
+            <input type="button" value="Mute" onclick="mute()">
+            <label for="speed">Speed</label>
+            <input id="speed" type="range" min=".25" max="4" step=".25" value="1" oninput="speed()">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

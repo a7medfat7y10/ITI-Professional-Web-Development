@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task4</title>
+    <style>
+        canvas {
+            border: solid red 5px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="c1" width="500" height="500"></canvas>
+
+    <script>
+        var canvas = document.getElementById("c1");
+        var ctx = canvas.getContext("2d");
+
+
+
+        var x=0; var y=0;
+        var timer = setInterval(function(){
+            ctx.beginPath();
+            ctx.moveTo(0, 0);
+            ctx.lineTo(x, y);
+            ctx.strokeStyle="red";
+            ctx.lineWidth=5;
+            ctx.stroke();
+            x+=10;
+            y+=10;
+        }, 200);
+        
+        setTimeout(function(){
+            alert("animation ends");
+            clearInterval(timer);
+        }, 10600)
+        
+    </script>
+</body>
+</html>

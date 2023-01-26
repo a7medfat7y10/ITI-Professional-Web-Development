@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task_three</title>
+</head>
+<body>
+    <canvas id="c1" width="500" height="350"></canvas>
+
+    <script>
+        var canvas = document.getElementById("c1");
+        var ctx = canvas.getContext("2d");
+
+
+
+
+
+        var istop = false;
+        var timer = setInterval(function(){
+            if(istop)
+            {
+                ctx.clearRect(100, 100, 200, 200);
+                ctx.beginPath(); 
+                ctx.fillStyle = "yellow";
+                ctx.arc(200, 200, 100, Math.PI, 0);
+                ctx.fill();
+                ctx.stroke();
+                istop = false;
+            }
+            else{
+                ctx.clearRect(100, 100, 200, 200);
+                ctx.beginPath();
+                ctx.fillStyle = "yellow";
+                ctx.strokeStyle = "blue";
+                ctx.arc(200, 200, 100,0, Math.PI);
+                ctx.fill();
+                ctx.stroke();
+                istop= true
+            }
+        }, 1000)
+
+
+    </script>
+</body>
+</html>

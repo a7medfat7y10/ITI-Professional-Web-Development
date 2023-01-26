@@ -1,0 +1,21 @@
+input{
+    display: block;
+    outline: red solid ;
+    width: 100%;
+}
+input[type="button"]
+{
+    outline: none;
+    width: 20%;
+}
+form{
+    width: 300px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+input:valid+span{
+    opacity: 0;
+    outline: none;
+}

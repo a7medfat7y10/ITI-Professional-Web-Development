@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>task7</title>
+</head>
+<body>
+    <canvas id="c1" width="500" height="500"></canvas>
+
+    <script>
+        var canvas = document.getElementById("c1");
+        var ctx = canvas.getContext("2d");
+
+        var img= new Image();
+        img.src="bird.jpg";
+        
+        
+        img.onload=function(){
+            ctx.drawImage(img,0,0,500,500);
+            ctx.fillStyle="white";
+            ctx.fillRect(0,400, 500,500);
+
+            ctx.font = "30px Arial";
+            ctx.fillStyle="black";
+            ctx.fillText("Everything will be okay swetiee", 60, 360);
+        }
+    </script>
+</body>
+</html>
