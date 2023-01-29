@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\bin\Debug\net7.0\task_one_emp_struct_updated.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\bin\Debug\net7.0\task_one_emp_struct_updated.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\bin\Debug\net7.0\task_one_emp_struct_updated.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\bin\Debug\net7.0\task_one_emp_struct_updated.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\bin\Debug\net7.0\task_one_emp_struct_updated.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\refint\task_one_emp_struct_updated.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\task_one_emp_struct_updated.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day4\tasks\Day4_solution\task_one_emp_struct_updated\obj\Debug\net7.0\ref\task_one_emp_struct_updated.dll

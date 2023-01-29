@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Day1\task\task\bin\Debug\net7.0\task.exe
+C:\Users\Fathy\Desktop\Day1\task\task\bin\Debug\net7.0\task.deps.json
+C:\Users\Fathy\Desktop\Day1\task\task\bin\Debug\net7.0\task.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day1\task\task\bin\Debug\net7.0\task.dll
+C:\Users\Fathy\Desktop\Day1\task\task\bin\Debug\net7.0\task.pdb
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.dll
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\refint\task.dll
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.pdb
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day1\task\task\obj\Debug\net7.0\ref\task.dll

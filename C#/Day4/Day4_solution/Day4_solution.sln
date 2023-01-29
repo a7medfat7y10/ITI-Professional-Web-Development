@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_one_emp_struct_updated", "task_one_emp_struct_updated\task_one_emp_struct_updated.csproj", "{BC6C9EE3-1CAF-4C97-872D-9C012A69F769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2_passing_ref_by_ref_vs_by_value", "task2_passing_ref_by_ref_vs_by_value\task2_passing_ref_by_ref_vs_by_value.csproj", "{85E1DA2B-5A10-46A3-BA4F-E59D68BDDDE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6C9EE3-1CAF-4C97-872D-9C012A69F769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6C9EE3-1CAF-4C97-872D-9C012A69F769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6C9EE3-1CAF-4C97-872D-9C012A69F769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6C9EE3-1CAF-4C97-872D-9C012A69F769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E1DA2B-5A10-46A3-BA4F-E59D68BDDDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E1DA2B-5A10-46A3-BA4F-E59D68BDDDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E1DA2B-5A10-46A3-BA4F-E59D68BDDDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E1DA2B-5A10-46A3-BA4F-E59D68BDDDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557D6471-CE83-47B8-9F6C-DA456E793008}
+	EndGlobalSection
+EndGlobal

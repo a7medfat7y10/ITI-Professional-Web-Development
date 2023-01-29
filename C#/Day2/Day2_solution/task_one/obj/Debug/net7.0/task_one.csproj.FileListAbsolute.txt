@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\bin\Debug\net7.0\task_one.exe
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\bin\Debug\net7.0\task_one.deps.json
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\bin\Debug\net7.0\task_one.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\bin\Debug\net7.0\task_one.dll
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\bin\Debug\net7.0\task_one.pdb
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.dll
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\refint\task_one.dll
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.pdb
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\task_one.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_one\obj\Debug\net7.0\ref\task_one.dll

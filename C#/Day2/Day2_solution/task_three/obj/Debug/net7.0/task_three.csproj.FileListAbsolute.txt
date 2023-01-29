@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\bin\Debug\net7.0\task_three.exe
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\bin\Debug\net7.0\task_three.deps.json
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\bin\Debug\net7.0\task_three.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\bin\Debug\net7.0\task_three.dll
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\bin\Debug\net7.0\task_three.pdb
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.dll
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\refint\task_three.dll
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.pdb
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\task_three.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day1\Day2_solution\task_three\obj\Debug\net7.0\ref\task_three.dll

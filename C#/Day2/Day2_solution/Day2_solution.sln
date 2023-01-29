@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_one", "task_one\task_one.csproj", "{602E3D6F-BC16-4B87-8EC5-0F52EDD69955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_two", "task_two\task_two.csproj", "{FBABB98B-A744-4D13-B990-8390787949A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_three", "task_three\task_three.csproj", "{1E6F3BA9-C0D2-4AF9-B1DA-5EC9CA5E38DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602E3D6F-BC16-4B87-8EC5-0F52EDD69955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602E3D6F-BC16-4B87-8EC5-0F52EDD69955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602E3D6F-BC16-4B87-8EC5-0F52EDD69955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602E3D6F-BC16-4B87-8EC5-0F52EDD69955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBABB98B-A744-4D13-B990-8390787949A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBABB98B-A744-4D13-B990-8390787949A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBABB98B-A744-4D13-B990-8390787949A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBABB98B-A744-4D13-B990-8390787949A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6F3BA9-C0D2-4AF9-B1DA-5EC9CA5E38DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6F3BA9-C0D2-4AF9-B1DA-5EC9CA5E38DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6F3BA9-C0D2-4AF9-B1DA-5EC9CA5E38DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6F3BA9-C0D2-4AF9-B1DA-5EC9CA5E38DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8B99E3F-588E-40BE-B162-AC44449FCDFE}
+	EndGlobalSection
+EndGlobal

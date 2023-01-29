@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\bin\Debug\net7.0\task_one_day5.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\bin\Debug\net7.0\task_one_day5.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\bin\Debug\net7.0\task_one_day5.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\bin\Debug\net7.0\task_one_day5.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\bin\Debug\net7.0\task_one_day5.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\refint\task_one_day5.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\task_one_day5.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day5\tasks\Day5_solution\task_one_day5\obj\Debug\net7.0\ref\task_one_day5.dll
