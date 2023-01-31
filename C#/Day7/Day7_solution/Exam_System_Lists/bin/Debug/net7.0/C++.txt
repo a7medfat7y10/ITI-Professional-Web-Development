@@ -1,0 +1,89 @@
+Write T or F: 
+C# is .....: 
+(T / F)  [Marks: 5] 
+Your Answer: 
+
+
+Choose one: 
+what is ....?:  
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4 
+ [Marks: 5] 
+Your Answer: 
+
+
+Write T or F: 
+C++ is .....: 
+(T / F)  [Marks: 5] 
+Your Answer: 
+
+
+Choose one: 
+what is ....?:  
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4 
+ [Marks: 5] 
+Your Answer: 
+
+
+Choose multi: 
+what is .....?:
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4
+E.All 
+ [Marks: 5] 
+Your Answer: 
+
+
+Write T or F: 
+C++ is .....: 
+(T / F)  [Marks: 5] 
+Your Answer: 
+
+
+Choose one: 
+what is ....?:  
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4 
+ [Marks: 5] 
+Your Answer: 
+
+
+Choose multi: 
+what is .....?:
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4
+E.All 
+ [Marks: 5] 
+Your Answer: 
+
+
+Choose one: 
+what is ....?:  
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4 
+ [Marks: 5] 
+Your Answer: 
+
+
+Choose multi: 
+what is .....?:
+A.Choice 1
+B.Choice 2
+C.Choice 3
+D.Choice 4
+E.All 
+ [Marks: 5] 
+Your Answer: 
