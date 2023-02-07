@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1_InkCanvas_Paint", "task1_InkCanvas_Paint\task1_InkCanvas_Paint.csproj", "{1463EAD4-36EF-4B76-A7B3-B29DFD00CA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2_form_inputs", "task2_form_inputs\task2_form_inputs.csproj", "{DCCA1148-DE76-4C9F-99C7-92661EA6E668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3_bonus_text_editor", "task3_bonus_text_editor\task3_bonus_text_editor.csproj", "{25CE568C-3582-4154-8F71-8FB26E0E67CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1463EAD4-36EF-4B76-A7B3-B29DFD00CA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1463EAD4-36EF-4B76-A7B3-B29DFD00CA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1463EAD4-36EF-4B76-A7B3-B29DFD00CA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1463EAD4-36EF-4B76-A7B3-B29DFD00CA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCA1148-DE76-4C9F-99C7-92661EA6E668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCA1148-DE76-4C9F-99C7-92661EA6E668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCA1148-DE76-4C9F-99C7-92661EA6E668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCA1148-DE76-4C9F-99C7-92661EA6E668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25CE568C-3582-4154-8F71-8FB26E0E67CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25CE568C-3582-4154-8F71-8FB26E0E67CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25CE568C-3582-4154-8F71-8FB26E0E67CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25CE568C-3582-4154-8F71-8FB26E0E67CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86DCA8E4-2337-4F72-A3CC-3691D615E8D3}
+	EndGlobalSection
+EndGlobal

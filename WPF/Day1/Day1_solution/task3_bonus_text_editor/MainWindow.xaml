@@ -1,0 +1,96 @@
+﻿<Window x:Class="task3_bonus_text_editor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task3_bonus_text_editor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <StackPanel>
+            <StackPanel Margin="4">
+                <TextBox x:Name="_text" Text ="Default starting text" Height="130">
+                </TextBox>
+            </StackPanel>
+
+
+            <StackPanel>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Button Content="Set Text" Width="60" Margin="4" Click="_setText">
+                    </Button>
+
+                    <Button Content="Select All" Width="60" Margin="4" Click="_SelectAll" Grid.Column="1">
+                    </Button>
+
+                    <Button Content="Clear" Width="60" Margin="4" Click="_Clear" Grid.Column="2">
+                    </Button>
+
+                    <Button Content="Prepend" Width="60" Margin="4" Click="_prepend" Grid.Row="1">
+                    </Button>
+
+                    <Button Content="Insert" Width="60" Margin="4" Click="_insert" Grid.Row="1"  Grid.Column="1">
+                    </Button>
+
+                    <Button Content="Append" Width="60" Margin="4" Click="_append" Grid.Row="1"  Grid.Column="2">
+                    </Button>
+
+                    <Button Content="Cut" Width="60" Margin="4" Click="_cut" Grid.Row="2">
+                    </Button>
+
+                    <Button Content="Paste" Width="60" Margin="4" Click="_paste" Grid.Row="2" Grid.Column="1">
+                    </Button>
+
+                    <Button Content="Undo" Width="60" Margin="4" Click="_undo" Grid.Row="2" Grid.Column="2">
+                    </Button>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel>
+
+                <Grid HorizontalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <RadioButton Checked="_editable" Margin="22 5">Editable</RadioButton>
+                    <RadioButton Checked="_readOnly" Margin="22 5" Grid.Column="1" >Raad Only</RadioButton>
+                </Grid>
+
+                <Grid HorizontalAlignment="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <RadioButton Checked="left" Margin="20 0">Left</RadioButton>
+                    <RadioButton Checked="center" Margin="20 0 " Grid.Column="1" >Center</RadioButton>
+                    <RadioButton Checked="right" Margin="20 0" Grid.Column="2" >Right</RadioButton>
+                </Grid>
+
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

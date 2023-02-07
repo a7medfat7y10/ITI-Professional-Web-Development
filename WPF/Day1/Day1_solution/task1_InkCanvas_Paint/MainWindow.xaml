@@ -1,0 +1,95 @@
+﻿<Window x:Class="task1_InkCanvas_Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task1_InkCanvas_Paint"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border 
+            CornerRadius="5"
+            BorderBrush="Red"
+            BorderThickness="5"
+            Background="Yellow"
+            Padding="5"
+            >
+
+            <InkCanvas Name="InkCan"></InkCanvas>
+        </Border>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <GroupBox Width="100" Header="Colors">
+                <StackPanel>
+
+                    <RadioButton Checked="Change_Color" >Red</RadioButton>
+                    <RadioButton Checked="Change_Color" >Green</RadioButton>
+                    <RadioButton Checked="Change_Color" >Blue</RadioButton>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Width="150" Header="Modes">
+                <StackPanel>
+
+                    <RadioButton Checked="Change_Mode" >Ink</RadioButton>
+                    <RadioButton Checked="Change_Mode" >Select</RadioButton>
+                    <RadioButton Checked="Change_Mode" >Erase</RadioButton>
+                    <RadioButton Checked="Change_Mode" >Erase by strock</RadioButton>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Drawing Shape" Margin="5">
+                <StackPanel>
+                    <RadioButton Content="Ellipse" Margin="5" Checked="Draw_Shapes"/>
+                    <RadioButton Content="Rectangle" Margin="5" Checked="Draw_Shapes"/>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="Brush Sizw" Margin="5">
+                <StackPanel>
+                    <RadioButton Content="Small" Margin="5" Checked="Brush_Size"/>
+                    <RadioButton Content="Normal" Margin="5" Checked="Brush_Size"/>
+                    <RadioButton Content="Large" Margin="5" Checked="Brush_Size"/>
+                </StackPanel>
+            </GroupBox>
+
+            <UniformGrid>
+                <Button Width="70"
+                Height="30"
+                Margin="5"
+                Click="Save"
+                >Save</Button>
+                <Button Width="70"
+                Height="30"
+                Margin="5"
+                Click="New"        
+                >New</Button>
+                <Button Width="70"
+                Height="30"
+                Margin="5"
+                Click="Load"
+                >Load</Button>
+                <Button Width="70"
+                Height="30"
+                Margin="5"
+                Click="Copy"
+                >Copy</Button>
+                <Button Width="70"
+                Height="30"
+                Margin="5"
+                Click="Cut"
+                >Cut</Button>
+                <Button Width="70"
+                Height="30"
+                Margin="5"
+                Click="Paste"
+                >Paste</Button>
+            </UniformGrid>
+
+        </StackPanel>
+    </Grid>
+</Window>
