@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task1_clickme/1.0.0": {
+        "runtime": {
+          "task1_clickme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task1_clickme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

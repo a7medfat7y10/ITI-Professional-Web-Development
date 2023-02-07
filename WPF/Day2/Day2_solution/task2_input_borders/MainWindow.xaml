@@ -1,0 +1,33 @@
+﻿<Window x:Class="task2_input_borders.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task2_input_borders"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Window.Resources>
+        <Style TargetType="TextBox" >
+            <Style.Triggers>
+                <Trigger Property="Text" Value="">
+                    <Setter Property="Background" Value="Yellow"></Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <StackPanel VerticalAlignment="Center">
+        <StackPanel Margin="10" Orientation="Horizontal">
+            <TextBlock Width="60">Name</TextBlock>
+            <Border Name="border" BorderThickness="2">
+                <TextBox KeyDown="border_name" Width="400"></TextBox>
+            </Border>
+        </StackPanel>
+        <StackPanel Margin="10" Orientation="Horizontal">
+            <TextBlock Width="60" >Address</TextBlock>
+            <Border Name="border2" BorderThickness="2">
+                <TextBox KeyDown="border_address" Width="400"></TextBox>
+            </Border>
+        </StackPanel>
+    </StackPanel>
+</Window>

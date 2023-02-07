@@ -1,0 +1,41 @@
+﻿<Window x:Class="task3_binding_font_families.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task3_binding_font_families"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DockPanel LastChildFill="False">
+
+            <Label DockPanel.Dock="Top" FontWeight="Bold"  FontSize="25" Background="Pink" 
+                   Margin="5" HorizontalContentAlignment="Center">
+                Choose your font to preview</Label>
+
+            <ListBox DockPanel.Dock="Left" Background="Pink" Width="200" Margin="5" Name="lst"
+             ItemsSource="{x:Static Fonts.SystemFontFamilies}"></ListBox>
+
+            <Border DockPanel.Dock="Bottom" Padding="5" Margin="5" BorderThickness="5" 
+                    BorderBrush="Pink">
+                <TextBox Name="textBox"></TextBox>
+            </Border>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0" FontSize="5"  FontFamily="{Binding ElementName=lst, Path=SelectedItem}"  Content="{Binding ElementName=textBox, Path=Text}"></Label>
+                <Label Grid.Row="1" FontSize="15" FontFamily="{Binding ElementName=lst, Path=SelectedItem}"  Content="{Binding ElementName=textBox, Path=Text}"></Label>
+                <Label Grid.Row="2" FontSize="25" FontFamily="{Binding ElementName=lst, Path=SelectedItem}"  Content="{Binding ElementName=textBox, Path=Text}"></Label>
+                <Label Grid.Row="3" FontSize="35" FontFamily="{Binding ElementName=lst, Path=SelectedItem}"  Content="{Binding ElementName=textBox, Path=Text}"></Label>
+                <Label Grid.Row="4" FontSize="45" FontFamily="{Binding ElementName=lst, Path=SelectedItem}"  Content="{Binding ElementName=textBox, Path=Text}"></Label>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>
