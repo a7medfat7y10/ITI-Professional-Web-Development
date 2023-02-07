@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\bin\Debug\net7.0\task_1.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\bin\Debug\net7.0\task_1.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\bin\Debug\net7.0\task_1.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\bin\Debug\net7.0\task_1.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\bin\Debug\net7.0\task_1.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\refint\task_1.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\task_1.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day9\tasks\Day9_solution\task_1\obj\Debug\net7.0\ref\task_1.dll
