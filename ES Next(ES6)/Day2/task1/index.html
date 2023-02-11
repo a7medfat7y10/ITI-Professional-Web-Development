@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ES6 Day 2</title>
+</head>
+<body>
+
+    <script>
+        //1-
+        console.log("############################ task1");
+        var crsfunction = function (obj) {
+            var defaulObj = {
+                courseName: "ES6",
+                courseDuration: "3 days",
+                courseOwner:"JavaScript"
+            }
+            var keys = Object.keys(obj);
+            for (let i = 0; i < keys.length; i++)
+                if (!defaulObj[keys[i]])
+                    throw "the object entered contains undefined property";  
+
+            return Object.assign({},defaulObj, obj);
+        }
+
+        var obj = { courseName: "Jquery", courseDuration: "2 days"};
+        // var obj = { courseName: "ES6", courseDuration: "3 days", test: "aaa" }; //Exception
+        console.log(crsfunction(obj));
+
+        //------------------------------------------------------------------------------------------//
+        console.log("############################ task2 A");
+        //2-A
+        function * fibonacci(n)
+        {
+            let arr=[0, 1];
+            yield arr[0];
+            yield arr[1];
+            for (let i = 2; i < n;i++)
+                yield arr[i] = arr[i-1] + arr[i-2];
+        }
+        var iter = fibonacci(5);
+        console.log(iter.next());
+        for(var el of iter)
+            console.log(el);
+
+        //2-B
+        console.log("############################ task2 B");
+        function * fibonacciV2(n)
+        {
+            let arr=[0, 1];
+            var i=1;
+            yield arr[0];
+            yield arr[1];
+            while(arr[i] < n)
+            {
+                i++;
+                yield arr[i] = arr[i-1] + arr[i-2];
+            }
+        }
+        var iter2 = fibonacciV2(5);
+        console.log(iter2.next());
+        for(var el of iter2)
+            console.log(el);
+
+
+        //3-
+        console.log("############################ task3");
+        var obj = {
+            [Symbol.replace]: function(str,max_len){
+                if (str.length > 15)
+                    return str.substring(0, max_len).concat("...")
+                else
+                    return str;
+            }
+        };
+        console.log("123456789012345aaaaaaaaa".replace(obj, 15));
+
+        //4-
+        console.log("############################ task4");
+        var iterObj = {
+            name: "ahmed",
+            age : 23
+        }
+        function * gen (){
+            var keys = Object.keys(iterObj);
+            for(var i in keys )
+                yield iterObj[keys[i]]; 
+        }
+        var iter3 = gen();
+        for(var el of iter3)
+            console.log(el);
+    </script>
+</body>
+</html>

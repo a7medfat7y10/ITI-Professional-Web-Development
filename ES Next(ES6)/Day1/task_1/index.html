@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ES6</title>
+</head>
+<body>
+    
+    <script>
+        //swap by destructuring
+        let x=1, y=2;
+        console.log("x is " + x + ", y is " + y);
+        [x,y] = [y,x];
+        console.log("x is " + x + ", y is " + y);
+
+        //rest operatr and destructuring
+        function getMinMax(...args){
+            return[min =Math.min(...args) ,max = Math.max(...args)];
+        }
+        var arr = [8,3,4,2,6,7,9];
+        var [min,max] = getMinMax(...arr);
+        console.log(min);
+        console.log(max);
+
+        //using 
+        var fruits = ["apple", "strawberry", "banana", "orange", "mango"];
+        //every
+        console.log(fruits.every(e => typeof e == "string"));
+        //some
+        console.log(fruits.some(e => e.startsWith("a")));
+        //filter
+        var newarr = fruits.filter(e=> e.startsWith("b") || e.startsWith("s"));
+        console.log(newarr);
+        //map
+        var newarr2 = fruits.map(e=>"I Like " + e);
+        console.log(newarr2);
+        //foreach
+        fruits.forEach(e=> console.log(e));
+
+
+    </script>
+</body>
+</html>
