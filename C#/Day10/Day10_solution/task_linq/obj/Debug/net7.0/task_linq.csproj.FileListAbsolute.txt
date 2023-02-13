@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\bin\Debug\net7.0\task_linq.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\bin\Debug\net7.0\task_linq.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\bin\Debug\net7.0\task_linq.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\bin\Debug\net7.0\task_linq.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\bin\Debug\net7.0\task_linq.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\refint\task_linq.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\task_linq.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\19-C#\Day10\tasks\Day10_solution\task_linq\obj\Debug\net7.0\ref\task_linq.dll
