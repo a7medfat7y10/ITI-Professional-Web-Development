@@ -1,0 +1,17 @@
+C:\Users\Fathy\Downloads\Day 11\Task 3\bin\Debug\net7.0-windows\Task 3.exe
+C:\Users\Fathy\Downloads\Day 11\Task 3\bin\Debug\net7.0-windows\Task 3.deps.json
+C:\Users\Fathy\Downloads\Day 11\Task 3\bin\Debug\net7.0-windows\Task 3.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 11\Task 3\bin\Debug\net7.0-windows\Task 3.dll
+C:\Users\Fathy\Downloads\Day 11\Task 3\bin\Debug\net7.0-windows\Task 3.pdb
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task_3.Form1.resources
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.GenerateResource.cache
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.dll
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\refint\Task 3.dll
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.pdb
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\Task 3.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 11\Task 3\obj\Debug\net7.0-windows\ref\Task 3.dll

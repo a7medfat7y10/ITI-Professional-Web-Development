@@ -1,0 +1,17 @@
+C:\Users\Fathy\Downloads\Day 11\Task 4\bin\Debug\net7.0-windows\Task 4.exe
+C:\Users\Fathy\Downloads\Day 11\Task 4\bin\Debug\net7.0-windows\Task 4.deps.json
+C:\Users\Fathy\Downloads\Day 11\Task 4\bin\Debug\net7.0-windows\Task 4.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 11\Task 4\bin\Debug\net7.0-windows\Task 4.dll
+C:\Users\Fathy\Downloads\Day 11\Task 4\bin\Debug\net7.0-windows\Task 4.pdb
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task_4.Form1.resources
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.GenerateResource.cache
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.dll
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\refint\Task 4.dll
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.pdb
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\Task 4.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 11\Task 4\obj\Debug\net7.0-windows\ref\Task 4.dll
