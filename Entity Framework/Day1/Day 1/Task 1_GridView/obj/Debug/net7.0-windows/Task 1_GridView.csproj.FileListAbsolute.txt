@@ -1,0 +1,111 @@
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.exe
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.deps.json
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.pdb
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task_1_GridView.Form1.resources
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.GenerateResource.cache
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\refint\Task 1_GridView.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.pdb
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\ref\Task 1_GridView.dll
+C:\My Files\ITI\ITI_SD\EF\Tasks\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task_2_DEtailedView.Form1.resources
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.exe
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.deps.json
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Task 1_GridView.pdb
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task_1_GridView.DetailedView.resources
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task_1_GridView.Form1.resources
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task_1_GridView.Form2.resources
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.GenerateResource.cache
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.csproj.CopyComplete
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\refint\Task 1_GridView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.pdb
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\Task 1_GridView.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day 1\Task 1_GridView\obj\Debug\net7.0-windows\ref\Task 1_GridView.dll
