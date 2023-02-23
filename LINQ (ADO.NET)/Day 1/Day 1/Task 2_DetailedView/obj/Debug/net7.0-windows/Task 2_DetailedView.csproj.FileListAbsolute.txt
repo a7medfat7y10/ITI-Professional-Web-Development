@@ -1,0 +1,210 @@
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.exe
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll.config
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.deps.json
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task_2_DetailedView.Form1.resources
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.GenerateResource.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\refint\Task 2_DetailedView.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\ref\Task 2_DetailedView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.exe
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll.config
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.deps.json
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.pdb
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task_2_DetailedView.Form1.resources
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.GenerateResource.cache
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CopyComplete
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\refint\Task 2_DetailedView.dll
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.pdb
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\ref\Task 2_DetailedView.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.exe
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll.config
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.deps.json
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.pdb
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task_2_DetailedView.Form1.resources
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.GenerateResource.cache
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CopyComplete
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\refint\Task 2_DetailedView.dll
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.pdb
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\ref\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll.config
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task_2_DetailedView.Form1.resources
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.GenerateResource.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CopyComplete
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\refint\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\ref\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll.config
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Task 2_DetailedView.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task_2_DetailedView.Form1.resources
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.GenerateResource.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.csproj.CopyComplete
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\refint\Task 2_DetailedView.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\Task 2_DetailedView.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day1\tasks\Day 1\Task 2_DetailedView\obj\Debug\net7.0-windows\ref\Task 2_DetailedView.dll

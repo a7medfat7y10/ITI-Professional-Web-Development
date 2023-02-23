@@ -1,0 +1,39 @@
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\bin\Debug\net7.0\DAL.dll.config
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\bin\Debug\net7.0\DAL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\bin\Debug\net7.0\DAL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\DAL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\Fathy\Desktop\Day 2\DAL\bin\Debug\net7.0\DAL.dll.config
+C:\Users\Fathy\Desktop\Day 2\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Fathy\Desktop\Day 2\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\Fathy\Desktop\Day 2\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\Fathy\Desktop\Day 2\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\bin\Debug\net7.0\DAL.dll.config
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\bin\Debug\net7.0\DAL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\bin\Debug\net7.0\DAL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\DAL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\DAL\obj\Debug\net7.0\ref\DAL.dll

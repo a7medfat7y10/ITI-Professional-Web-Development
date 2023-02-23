@@ -1,0 +1,48 @@
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\bin\Debug\net7.0\BLL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\bin\Debug\net7.0\BLL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\bin\Debug\net7.0\DAL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\bin\Debug\net7.0\DAL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\bin\Debug\net7.0\DAL.dll.config
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\BLL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\Fathy\Desktop\Day 2\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\Fathy\Desktop\Day 2\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\Fathy\Desktop\Day 2\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\Fathy\Desktop\Day 2\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\Fathy\Desktop\Day 2\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Fathy\Desktop\Day 2\BLL\bin\Debug\net7.0\DAL.dll.config
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\Fathy\Desktop\Day 2\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\bin\Debug\net7.0\BLL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\bin\Debug\net7.0\BLL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\bin\Debug\net7.0\DAL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\bin\Debug\net7.0\DAL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\bin\Debug\net7.0\DAL.dll.config
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\BLL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\BLL\obj\Debug\net7.0\ref\BLL.dll

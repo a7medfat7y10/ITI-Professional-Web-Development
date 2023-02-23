@@ -1,0 +1,143 @@
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.exe
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.deps.json
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\BLL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\BLL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.dll.config
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task_1_NorthWind.Form1.resources
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.GenerateResource.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\refint\Task 1 NorthWind.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.pdb
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\ref\Task 1 NorthWind.dll
+C:\My Files\ITI\ITI_SD\LINQ\Tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.dll.config
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.exe
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.dll.config
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.deps.json
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.pdb
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\BLL.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\BLL.pdb
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.pdb
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.dll.config
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task_1_NorthWind.Form1.resources
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.GenerateResource.cache
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.CopyComplete
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\refint\Task 1 NorthWind.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.pdb
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\ref\Task 1 NorthWind.dll
+C:\Users\Fathy\Desktop\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task_1_NorthWind.DetailedView.resources
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.dll.config
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Task 1 NorthWind.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\BLL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\BLL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\bin\Debug\net7.0-windows\DAL.dll.config
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task_1_NorthWind.DetailedView.resources
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task_1_NorthWind.Form1.resources
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.GenerateResource.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.csproj.CopyComplete
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\refint\Task 1 NorthWind.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\Task 1 NorthWind.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\24-LINQ\Day2\tasks\Day 2\Task 1 NorthWind\obj\Debug\net7.0-windows\ref\Task 1 NorthWind.dll
