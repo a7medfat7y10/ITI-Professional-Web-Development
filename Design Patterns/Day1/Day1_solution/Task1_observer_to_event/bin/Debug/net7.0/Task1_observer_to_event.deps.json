@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Task1_observer_to_event/1.0.0": {
+        "runtime": {
+          "Task1_observer_to_event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task1_observer_to_event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

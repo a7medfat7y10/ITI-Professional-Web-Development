@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\bin\Debug\net7.0\task3_strategy.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\bin\Debug\net7.0\task3_strategy.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\bin\Debug\net7.0\task3_strategy.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\bin\Debug\net7.0\task3_strategy.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\bin\Debug\net7.0\task3_strategy.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\refint\task3_strategy.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\task3_strategy.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task3_strategy\obj\Debug\net7.0\ref\task3_strategy.dll

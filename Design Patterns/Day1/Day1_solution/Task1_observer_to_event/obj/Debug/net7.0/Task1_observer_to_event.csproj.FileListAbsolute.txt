@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\bin\Debug\net7.0\Task1_observer_to_event.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\bin\Debug\net7.0\Task1_observer_to_event.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\bin\Debug\net7.0\Task1_observer_to_event.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\bin\Debug\net7.0\Task1_observer_to_event.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\bin\Debug\net7.0\Task1_observer_to_event.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\refint\Task1_observer_to_event.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\Task1_observer_to_event.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\Task1_observer_to_event\obj\Debug\net7.0\ref\Task1_observer_to_event.dll

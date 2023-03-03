@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\bin\Debug\net7.0\task4_decorator.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\bin\Debug\net7.0\task4_decorator.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\bin\Debug\net7.0\task4_decorator.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\bin\Debug\net7.0\task4_decorator.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\bin\Debug\net7.0\task4_decorator.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\refint\task4_decorator.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\task4_decorator.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task4_decorator\obj\Debug\net7.0\ref\task4_decorator.dll

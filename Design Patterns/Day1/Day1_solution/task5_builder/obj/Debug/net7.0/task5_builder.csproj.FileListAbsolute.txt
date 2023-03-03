@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\bin\Debug\net7.0\task5_builder.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\bin\Debug\net7.0\task5_builder.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\bin\Debug\net7.0\task5_builder.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\bin\Debug\net7.0\task5_builder.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\bin\Debug\net7.0\task5_builder.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\refint\task5_builder.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\task5_builder.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task5_builder\obj\Debug\net7.0\ref\task5_builder.dll

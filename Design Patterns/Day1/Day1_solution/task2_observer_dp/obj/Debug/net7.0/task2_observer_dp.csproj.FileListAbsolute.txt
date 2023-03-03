@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\bin\Debug\net7.0\task2_observer_dp.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\bin\Debug\net7.0\task2_observer_dp.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\bin\Debug\net7.0\task2_observer_dp.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\bin\Debug\net7.0\task2_observer_dp.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\bin\Debug\net7.0\task2_observer_dp.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\refint\task2_observer_dp.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\task2_observer_dp.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Day1_solution\task2_observer_dp\obj\Debug\net7.0\ref\task2_observer_dp.dll
