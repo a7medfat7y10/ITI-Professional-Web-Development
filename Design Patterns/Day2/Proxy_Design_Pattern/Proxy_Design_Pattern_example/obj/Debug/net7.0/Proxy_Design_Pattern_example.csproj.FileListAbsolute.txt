@@ -1,0 +1,15 @@
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\bin\Debug\net7.0\Proxy_Design_Pattern_example.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\bin\Debug\net7.0\Proxy_Design_Pattern_example.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\bin\Debug\net7.0\Proxy_Design_Pattern_example.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\bin\Debug\net7.0\Proxy_Design_Pattern_example.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\bin\Debug\net7.0\Proxy_Design_Pattern_example.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\refint\Proxy_Design_Pattern_example.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\Proxy_Design_Pattern_example.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\26-Design Patterns\Day2\tasks\Proxy_Design_Pattern\Proxy_Design_Pattern_example\obj\Debug\net7.0\ref\Proxy_Design_Pattern_example.dll
