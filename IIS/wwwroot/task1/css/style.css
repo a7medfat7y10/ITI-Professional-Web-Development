@@ -1,0 +1,109 @@
+body {
+    background-color: #FFD8D9;
+}
+.welcome{
+    color: #D92676;
+    text-align: right;
+    font-size: 20px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.enter {
+    text-align: center;
+    margin-top: 30px;
+}
+.head-one {
+    text-decoration:underline;
+}
+.header {
+    text-align: center;
+}
+.my-content h2 {
+    text-decoration: underline;
+}
+
+.size-small {
+    font-size: 15px;
+}
+
+.size-big {
+    font-size: 30px;
+}
+.diff-color {
+    color: #F00
+}
+.diff-font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.next {
+    float:right
+}
+.gif {
+    text-align: center;
+}
+
+.page-3 {
+    text-align: center;
+}
+.email img {
+    width:120px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.search {
+    margin-top: 50px ;
+}
+
+/*Registration page*/
+.registration table{
+    border-bottom: 10px solid #790000;
+    border-right: 10px solid #790000;
+    border-left: 10px solid #EDA5A5;
+    border-top: 10px solid #EDA5A5;
+    /* border-collapse: collapse; */
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 17px;
+}
+.registration th, td {
+    border: 1px solid #d9a0a0;
+    /* border-collapse: collapse; */
+    width: 50%;
+}
+.registration input{
+    width: calc(100% - 10px);
+    height: 85%;
+}
+.registration input[type="radio"] {
+    width:auto;
+    float: left;
+}
+.registration td.gender {
+    float: left;
+    width:calc(100% - 5px);
+}
+.registration td {
+    height: 37px;
+}
+.registration .interests {
+    text-align: center;
+    font-size: large;
+}
+.registration select {
+    width: 74%;
+    height: 27px;
+}
+.registration input.birthday {
+    width: 20%;
+    height: auto;
+}
+.registration label {
+    padding-left: 5px;
+}
+
+.registration .hobbies {
+    width: auto  ;
+    height: auto ;
+}
