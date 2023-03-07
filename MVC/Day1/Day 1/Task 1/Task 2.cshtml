@@ -1,0 +1,136 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <style>
+        form {
+            border: 1px solid #000;
+            padding: 10px;
+            width: 400px;
+            float: left;
+        }
+
+        input[type="submit"] {
+            background: blue;
+            border: none;
+            padding: 5px;
+            border-radius: 5px;
+            color: white
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        .card {
+            height: 400px;
+            width: 400px;
+            background: url(@Request["img"]);
+            color: @Request["color"];
+            border: 1px solid #000;
+            float: left;
+            margin-left: 100px
+        }
+
+            .card h1 {
+                text-align: center;
+            }
+
+            .card p {
+                text-align: center;
+                font-size: 20px;
+            }
+
+        .img {
+            width: 100px;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        <form method="post">
+            <label>Choose background image</label>
+            <select name="img">
+                <option value="backgrounds/0.jpg">0</option>
+                <option value="backgrounds/1.jpg">1</option>
+                <option value="backgrounds/2.jpg">2</option>
+                <option value="backgrounds/3.jpg">3</option>
+                <option value="backgrounds/4.jpg">4</option>
+                <option value="backgrounds/5.jpg">5</option>
+                <option value="backgrounds/6.jpg">6</option>
+                <option value="backgrounds/7.jpg">7</option>
+                <option value="backgrounds/8.jpg">8</option>
+                <option value="backgrounds/9.jpg">9</option>
+                <option value="backgrounds/10.jpg">10</option>
+                <option value="backgrounds/11.jpg">11</option>
+            </select>
+
+            <br />
+            <br />
+
+            <label>Choose Font Color</label>
+            <select name="color">
+                <option value="black">Black</option>
+                <option value="red">Red</option>
+                <option value="green">Green</option>
+                <option value="blue">Blue</option>
+            </select>
+
+            <br />
+            <br />
+
+            <label>Choose a greeting Type</label>
+            <br />
+            <input type="radio" name="greeting" value="Birthday" />
+            <label>Birthday</label>
+            <br />
+            <input type="radio" name="greeting" value="Get_Well" />
+            <label>Get Well Soon</label>
+            <br />
+            <input type="radio" name="greeting" value="Valentine" />
+            <label>Valentine</label>
+            <br />
+            <input type="radio" name="greeting" value="Congrats" />
+            <label>Congrats</label>
+
+            <br />
+            <br />
+
+            <input type="checkbox" name="pic" value="AddPic" />
+            <label>Add the picture</label>
+
+            <br />
+            <br />
+
+            <label>Enter the greeting Message below</label>
+            <br />
+            <textarea name="message"></textarea>
+            <br />
+            <br />
+            <input type="submit" value="Preview" />
+        </form>
+
+        <div class="card">
+            <h1>@Request["greeting"]</h1>
+            <br />
+            @if (!@Request["pic"].IsEmpty())
+            {
+                <img src="backgrounds/bd2.jpg" class="img" />
+            }
+            <p>@Request["message"]</p>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

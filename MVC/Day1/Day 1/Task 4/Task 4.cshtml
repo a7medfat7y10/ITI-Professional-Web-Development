@@ -1,0 +1,48 @@
+﻿@using Task_4
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+
+    @*web grid helper*@
+
+    @{
+        List<Product> products = new List<Product>()
+{
+            new Product(){Id = 1, Name = "Product_1", Price = 200},
+            new Product(){Id = 2, Name = "Product_2", Price = 200},
+            new Product(){Id = 3, Name = "Product_3", Price = 200},
+            new Product(){Id = 4, Name = "Product_4", Price = 200},
+
+        };
+    }
+
+    @{
+        WebGrid grid = new WebGrid(products);
+    }
+
+    @grid.GetHtml()
+
+
+    @*chart helper*@
+    @{
+        var myChart = new Chart(width: 600, height: 400)
+           .AddTitle("Employees")
+           .AddSeries(chartType: "pie",
+              xValue: new[] { "Peter", "Andrew", "Julie", "Mary", "Dave" },
+              yValues: new[] { "2", "6", "4", "5", "3" })
+           .Write();
+    }
+
+
+</body>
+</html>

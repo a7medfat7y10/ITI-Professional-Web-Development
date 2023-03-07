@@ -1,0 +1,42 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+
+    <form method="post">
+        <label>Name</label>
+        <input type="text" name="name" />
+        <br />
+        <br />
+        <label>Birthdate</label>
+        <input type="date" name="b_date" />
+        <br />
+        <br />
+        <label>IsGraduated</label>
+        <input type="checkbox" name="is_graduated" value="graduated" checked />
+        <input type="submit" value="Go" />
+    </form>
+
+    @if (IsPost)
+    {
+        <div>
+            <div>Hello, @Request.Form["name"]</div>
+            <div>Your Birthday is: @Request.Form["b_date"]</div>
+            @if (!Request.Form["is_graduated"].IsEmpty())
+            {
+                <div>Yes I am graduated</div>
+            }
+        </div>
+    }
+
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<form action="/Home/ShowDetails" method="post" style="background-color:#FFF; 
+height:70vh;padding:15px;margin:10px;margin-top:40px; border-radius:5px">
+
+    <label> ID: </label>
+    <input type="text" name="id" value="" class="form-control"/>
+    <br />
+    <label> Name: </label>
+    <input type="text" name="name" value="" class="form-control"/>
+    <br />
+    <label> Image: </label>
+    <select name="img" class="form-control">
+        <option value="/Content/images/1.jpg"> 1 </option>
+        <option value="/Content/images/2.jpg"> 2 </option>
+        <option value="/Content/images/3.jpg"> 3 </option>
+        <option value="/Content/images/4.jpg"> 4 </option>
+        <option value="/Content/images/5.jpg"> 5 </option>
+        <option value="/Content/images/6.jpg"> 6 </option>
+        <option value="/Content/images/7.jpg"> 7 </option>
+    </select>
+    <br />
+    <input type="submit" value="Submit" class="form-control btn btn-primary"/>
+
+</form>
