@@ -1,0 +1,22 @@
+﻿@using Task_1.Models;
+@{
+    ViewBag.Title = "getByID";
+    Car myCar = ViewBag.selectedCar;
+
+}
+
+<h2>getByID</h2>
+<div style="padding:5px; margin:10px">
+    <h4> Num: @myCar.Num </h4>
+    <h4> Color: @myCar.Color </h4>
+    <h4> Model: @myCar.Model </h4>
+    <h4> Magnufacture: @myCar.Manufacture </h4>
+</div>
+
+
+
+<a href="/Car/getAll"> Back To List </a>
+
+
+
+

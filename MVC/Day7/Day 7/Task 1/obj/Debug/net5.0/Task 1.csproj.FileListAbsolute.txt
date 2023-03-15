@@ -1,0 +1,41 @@
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\appsettings.Development.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\appsettings.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.exe
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.deps.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.MvcApplicationPartsAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\scopedcss\bundle\Task 1.styles.css
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\staticwebassets\Task 1.StaticWebAssets.Manifest.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\staticwebassets\Task 1.StaticWebAssets.Pack.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.Task 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.build.Task 1.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Task 1.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Task 1.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.RazorTargetAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\refint\Task 1.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.Views.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\bin\Debug\net5.0\Task 1.Views.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.RazorAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.RazorAssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.TagHelpers.input.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.TagHelpers.output.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.RazorCoreGenerate.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Razor\Views\Car\getAll.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.RazorTargetAssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.Views.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Task 1.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Razor\Views\Car\createCar.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Razor\Views\Car\editByID.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 7\Task 1\obj\Debug\net5.0\Razor\Views\Car\getByID.cshtml.g.cs

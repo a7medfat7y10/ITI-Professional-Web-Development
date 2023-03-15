@@ -1,0 +1,52 @@
+﻿@using Task_1.Models;
+@{
+    ViewBag.Title = "getAll";
+
+    List<Car> cars = ViewBag.Cars;
+}
+<style>
+    .mytable {
+        border-bottom : 1px solid #808080;
+    }
+        .mytable th, .mytable td {
+            padding: 10px;
+            border-bottom: 1px solid #808080;
+        }
+        
+</style>
+
+<h2>getAll</h2>
+
+<div>
+    <table class="mytable" > 
+        <tr>
+            <th> Num </th>
+            <th> Color </th>
+            <th> Model </th>
+            <th> Manufacture </th>
+            <th> &nbsp; </th>
+
+
+        </tr>
+
+        @foreach(var car in cars)
+            {
+                <tr>
+                    <td> @car.Num </td>
+                    <td> @car.Color </td>
+                    <td> @car.Model </td>
+                    <td> @car.Manufacture </td>
+                    <td>
+                        <a href="/Car/getByID/@car.Num"> Select Car </a> |
+                        <a href="/Car/editByID/@car.Num"> Edit Car </a> |
+                        <a href="/Car/deleteByID/@car.Num"> Delete Car </a>
+                    </td>
+
+                </tr>
+            }
+    </table>
+
+    <br />
+    <a href="/Car/createCar"> Add new car </a>
+</div>
+
