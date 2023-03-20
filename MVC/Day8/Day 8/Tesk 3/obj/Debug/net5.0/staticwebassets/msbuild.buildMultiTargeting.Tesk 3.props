@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tesk 3.props" />
+</Project>

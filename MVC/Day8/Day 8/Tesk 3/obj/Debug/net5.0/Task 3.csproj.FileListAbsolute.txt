@@ -1,0 +1,258 @@
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\appsettings.Development.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\appsettings.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\bundleconfig.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\libman.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.deps.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.runtimeconfig.dev.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.exe
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.exe
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.deps.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.runtimeconfig.dev.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.Views.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.Views.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Humanizer.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.MvcApplicationPartsAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorAssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\scopedcss\bundle\Task 3.styles.css
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\Task 3.StaticWebAssets.Manifest.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\Task 3.StaticWebAssets.Pack.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.Task 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.build.Task 3.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Task 3.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Task 3.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.TagHelpers.input.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.TagHelpers.output.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorCoreGenerate.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\createCar.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\editByID.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\getAll.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\getByID.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorTargetAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorTargetAssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.Views.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\refint\Task 3.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Tesk 3\obj\Debug\net5.0\ref\Task 3.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\appsettings.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\bundleconfig.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\libman.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.deps.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.runtimeconfig.dev.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.exe
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.exe
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.deps.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.runtimeconfig.dev.json
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.pdb
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.Views.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 3.Views.pdb
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\bin\Debug\net5.0\Task 4.pdb
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorAssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\scopedcss\bundle\Task 3.styles.css
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\Task 3.StaticWebAssets.Manifest.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\Task 3.StaticWebAssets.Pack.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.Task 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.build.Task 3.props
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Task 3.props
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Task 3.props
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.TagHelpers.input.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.TagHelpers.output.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorCoreGenerate.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\createCar.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\editByID.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\getAll.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Car\getByID.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorTargetAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.RazorTargetAssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.Views.pdb
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.csproj.CopyComplete
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\refint\Task 3.dll
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.pdb
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\Task 3.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 8\Tesk 3\obj\Debug\net5.0\ref\Task 3.dll

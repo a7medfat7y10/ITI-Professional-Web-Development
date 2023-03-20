@@ -1,0 +1,10 @@
+﻿body div.header {
+    color: #d72044;
+    text-align: center;
+    padding: 5px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}

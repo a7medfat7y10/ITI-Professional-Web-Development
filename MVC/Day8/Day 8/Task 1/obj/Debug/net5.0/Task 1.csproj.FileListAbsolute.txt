@@ -1,0 +1,156 @@
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\appsettings.json
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.exe
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.deps.json
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.Views.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Task 1.Views.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.RazorAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.RazorAssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\scopedcss\bundle\Task 1.styles.css
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\staticwebassets\Task 1.StaticWebAssets.Manifest.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\staticwebassets\Task 1.StaticWebAssets.Pack.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.Task 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.build.Task 1.props
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Task 1.props
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Task 1.props
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.TagHelpers.input.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.TagHelpers.output.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.RazorCoreGenerate.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.RazorTargetAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.RazorTargetAssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.Views.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\refint\Task 1.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Task 1.csproj.CopyComplete
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\efpt.config.json
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fathy\Downloads\Day 8\Task 1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\Fathy\Downloads\Day 8\Task 1\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs

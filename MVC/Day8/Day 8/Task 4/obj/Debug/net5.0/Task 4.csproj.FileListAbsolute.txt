@@ -1,0 +1,54 @@
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\appsettings.Development.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\appsettings.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\Task 4.exe
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\Task 4.deps.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\Task 4.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\Task 4.runtimeconfig.dev.json
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\Task 4.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\bin\Debug\net5.0\Task 4.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.MvcApplicationPartsAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\scopedcss\bundle\Task 4.styles.css
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\Task 4.StaticWebAssets.Manifest.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\Task 4.StaticWebAssets.Pack.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.Task 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.build.Task 4.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Task 4.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Task 4.props
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.RazorTargetAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\refint\Task 4.dll
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.pdb
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\Task 4.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\MVC\Tasks\Day 8\Task 4\obj\Debug\net5.0\ref\Task 4.dll
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\appsettings.json
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\Task 4.exe
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\Task 4.deps.json
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\Task 4.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\Task 4.runtimeconfig.dev.json
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\Task 4.dll
+C:\Users\Fathy\Downloads\Day 8\Task 4\bin\Debug\net5.0\Task 4.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\scopedcss\bundle\Task 4.styles.css
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\Task 4.StaticWebAssets.Manifest.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\Task 4.StaticWebAssets.Pack.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.Task 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.build.Task 4.props
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Task 4.props
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Task 4.props
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.RazorTargetAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.dll
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\refint\Task 4.dll
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.pdb
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\Task 4.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 8\Task 4\obj\Debug\net5.0\ref\Task 4.dll

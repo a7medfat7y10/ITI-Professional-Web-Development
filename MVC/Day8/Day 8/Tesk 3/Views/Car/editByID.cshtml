@@ -1,0 +1,24 @@
+﻿@using Task_1.Models;
+@{
+    ViewBag.Title = "editByID";
+    Car editedCar = ViewBag.selectedCar;
+}
+
+<div class="header"> <h2>EditByID</h2> </div>
+
+<form action="/car/EditSave" method="post">
+    <input type="text" name="Num" value="@editedCar.Num" />
+    <br />
+    <br />
+    <input type="text" name="Color" value="@editedCar.Color" />
+    <br />
+    <br />
+    <input type="text" name="Model" value="@editedCar.Model" />
+    <br />
+    <br />
+    <input type="text" name="Manufacture" value="@editedCar.Manufacture" />
+    <br/>
+    <br />
+    <input type="submit" class="btn btn-sm btn-danger" value="Save" />
+</form>
+
