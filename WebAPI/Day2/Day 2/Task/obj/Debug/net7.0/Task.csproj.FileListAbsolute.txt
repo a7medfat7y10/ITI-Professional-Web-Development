@@ -1,0 +1,865 @@
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Task.exe
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Task.dll
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Task.props
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task.props
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task.props
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\scopedcss\bundle\Task.styles.css
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.dll
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Day 2\Task\obj\Debug\net7.0\ref\Task.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\appsettings.json
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Task.exe
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Task.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fathy\Downloads\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Task.props
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task.props
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task.props
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\scopedcss\bundle\Task.styles.css
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.dll
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\Users\Fathy\Downloads\Day 2\Task\obj\Debug\net7.0\ref\Task.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\appsettings.Development.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\appsettings.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Task.exe
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Task.deps.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Task.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Task.pdb
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Azure.Core.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Azure.Identity.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Humanizer.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Build.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Common.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.CodeDom.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Memory.Data.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cs
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cache
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Task.props
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task.props
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task.props
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets.pack.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets.build.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets.development.json
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\scopedcss\bundle\Task.styles.css
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\refint\Task.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.pdb
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\obj\Debug\net7.0\ref\Task.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Castle.Core.dll
+C:\My Files\ITI\ITI_SD\API\Tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\appsettings.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Task.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Task.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Task.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Castle.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Humanizer.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Build.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Common.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Task.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\scopedcss\bundle\Task.styles.css
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\refint\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day2\tasks\Day 2\Task\obj\Debug\net7.0\ref\Task.dll

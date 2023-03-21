@@ -1,0 +1,66 @@
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\appsettings.json
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Task.exe
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Task.deps.json
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Task.dll
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Task.pdb
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fathy\Desktop\Day 1\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Task.props
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task.props
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task.props
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\scopedcss\bundle\Task.styles.css
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.dll
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\refint\Task.dll
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.pdb
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Day 1\Task\obj\Debug\net7.0\ref\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\appsettings.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Task.exe
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Task.deps.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Task.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.build.Task.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task.props
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\scopedcss\bundle\Task.styles.css
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.csproj.CopyComplete
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\refint\Task.dll
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.pdb
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+D:\ITI\3-ITI 9-Month SD Web development and bi\30-API\Day1\tasks\Day 1\Task\obj\Debug\net7.0\ref\Task.dll
