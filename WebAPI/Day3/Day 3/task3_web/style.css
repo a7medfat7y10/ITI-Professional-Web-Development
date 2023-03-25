@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+  body{
+    margin: 40px;
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    text-align: center;
+    /*background-image: linear-gradient(to right bottom,*/
+    /*#416aa6, #4e75b2, #5b81be, #688cca, #7598d6, #71a5e2,*/
+    /*#6db2ee, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);*/
+    background-image: linear-gradient(to right bottom,
+    #455a79, #4c5f7d, #536481, #596a85, #606f89, #5e738c,
+    #5d768f, #5b7a91, #517d90, #487f8c, #438186, #43827e);
+    min-height: 100vh;
+
+}
+
+th{
+    font-size: 30px;
+    color: #36b6b6;
+}
+
+table{
+    border: 5px solid white;
+}
+h1{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.addPage{
+    margin: 20px;
+    display: block;
+}
+/*header {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    margin: 0;*/
+/*}*/
+/*header h1 {*/
+/*    width: 90%;*/
+/*    font-size: 60px;*/
+/*    font-weight: 600;*/
+/*    color: transparent;*/
+/*    background-image: linear-gradient(to right , #858c82, #5e210d, #0f1a46, #234252, #553c9a);*/
+/*    -webkit-background-clip: text;*/
+/*    background-clip: text;*/
+/*    background-size: 200%;*/
+/*    background-position: -200%;*/
+/*    transition: all ease-in-out 3s;*/
+/*    cursor: pointer;*/
+/*}*/
+/*header h1:hover{*/
+/*    background-position: 200%;*/
+/*}*/
