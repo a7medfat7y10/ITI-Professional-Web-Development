@@ -60,7 +60,12 @@ const port = http.createServer((req, res) =>{
             email = data.toString().split("&")[3].split("=")[1].replace("%40", "@");
         })
         req.on("end",()=>{
-            
+            res.write(welcomeHtml.replace("{clientName}", clientName)
+            .replace("{MobileNum}", mobileNum)
+            .replace("{Address}", address)
+            .replace("{Email}", email)
+            );
+
             var fileJson = fs.readFileSync("../Client/client.json").toString();
             var allData = JSON.parse(fileJson);
             var newClient =   {
@@ -79,12 +84,6 @@ const port = http.createServer((req, res) =>{
             console.log(arr);
             fs.writeFileSync("../Client/client.json", JSON.stringify(arr));
 
-
-            res.write(welcomeHtml.replace("{clientName}", clientName)
-            .replace("{MobileNum}", mobileNum)
-            .replace("{Address}", address)
-            .replace("{Email}", email)
-            );
             res.end();
         })
     }

@@ -1,0 +1,40 @@
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+}
+input[type = text], input[type = email], input[type = number] {
+    width: 100%;
+    padding: 5px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #857474;
+    box-sizing: border-box;
+}
+
+label{
+    font-size: 18px;
+}
+
+form h1{
+    text-align: center;
+}
+
+input[type = submit] {
+    background-color: #08714b;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+input[type = submit]:hover {
+    opacity: 0.8;
+}
