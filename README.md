@@ -1,7 +1,7 @@
 <!-- This is a Markdown file with some HTML and CSS styles -->
 
 <!-- Title -->
-# Ahmed Mohamed Fathy's Internship Tasks
+# Ahmed Fathy's ITI 9-Month Tasks
 
 <!-- Introduction -->
 I'm Ahmed Mohamed Fathy, a fresh graduate petroleum engineer who is passionate about programming. Recently, I joined the 9-Month Program provided by Information Technology Institute in the Professional Web Development & BI Track - Smart Village.
