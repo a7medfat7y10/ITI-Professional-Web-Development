@@ -1,0 +1,19 @@
+
+<form style="width: 50%; margin: auto;" (ngSubmit) = "getValue()" [formGroup] = "formValidation">
+  <br>
+  <input class="form-control" formControlName = "name" type="text">
+  <span *ngIf = "!NameValid" style="color: red;"> Name not valid </span>
+  <br>
+  <br>
+
+  <input class="form-control" formControlName = "age" type="text">
+  <span *ngIf = "!AgeValid" style="color: red;"> Age not valid </span>
+  <br>
+  <br>
+
+  <input class="form-control" formControlName = "email" type="email">
+  <br>
+  <br>
+  <span *ngIf = "!EmailValid" style="color: red;"> Email not valid </span>
+  <input class="btn btn-outline-danger d-block m-auto" type="submit" value="Submit">
+</form>
