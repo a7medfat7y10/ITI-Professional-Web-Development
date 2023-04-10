@@ -1,0 +1,17 @@
+
+<h1>Registration</h1>
+<div class="form">
+  <input type = "text" placeholder = "Enter Name" [(ngModel)] = "name"  >
+
+  <input type = "text" placeholder = "Enter Age"  [(ngModel)] = "age" >
+  <div style="color: white; background-color: rgb(249, 158, 158); width: 30%; margin: auto; border-radius: 4%; text-align: center;">
+    <p *ngIf="name.length < 3" > Name must be more than 3 characters </p>
+    <p *ngIf="+age < 20 || +age > 40" > Age must be between 20 & 40 </p>
+  </div>
+
+  <!-- <ng-template #trueBlock>
+      <p *ngIf="age" style="color: rgb(82, 241, 46); text-align: center;">Age Valid</p>
+  </ng-template> -->
+
+  <input type="button" value="ADD" (click)="add()" >
+</div>
