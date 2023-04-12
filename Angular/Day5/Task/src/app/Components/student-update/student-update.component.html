@@ -1,0 +1,17 @@
+<div class="form w-50 m-auto mt-5">
+  <div class="form-group d-flex m-2">
+    <label class="col-2 text-center"> Name: </label>
+    <input #name type="text" class="form-control"/>
+  </div>
+  <div class="form-group d-flex m-2">
+    <label class="col-2 text-center"> Email: </label>
+    <input #email type="email" class="form-control"/>
+  </div>
+  <div class="form-group d-flex m-2 mb-3">
+    <label class="col-2 text-center"> Phone: </label>
+    <input #phone type="text" class="form-control"/>
+  </div>
+  <div class="form-group m-auto w-25">
+    <input type="button" value="ADD" (click)="Update(name.value, email.value, phone.value)" class="btn btn-outline-primary"/>
+  </div>
+</div>
