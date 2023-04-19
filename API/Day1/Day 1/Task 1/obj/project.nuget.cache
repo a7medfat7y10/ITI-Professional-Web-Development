@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mgex5hPb7qTwYYnMGjaeOXKOm/V6WgRdbDO4WlBfR9IfGP9/tfhGzD6BqY35T9FwQbTcSriaVgRsMSJ10iCRg==",
+  "success": true,
+  "projectFilePath": "D:\\ITI\\3-ITI 9-Month SD Web development and bi\\34-WebAPI Core\\Day1\\tasks\\Day 1\\Task 1\\Task 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fathy\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\Fathy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Fathy\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Fathy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Fathy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Fathy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Fathy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
