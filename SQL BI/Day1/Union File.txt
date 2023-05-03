@@ -1,0 +1,11 @@
+Crs_Id,Crs_Name,Crs_Duration,Top_Id,Top_Name,Crs_Name_InLower
+1100,win_xp,20,4,Operating System,win_xp
+700,web service,20,3,Web,web service
+100,html,20,3,Web,html
+500,sql server,60,2,DB,sql server
+900,oracle,50,2,DB,oracle
+300,oop,80,1,Programming,oop
+800,java,60,1,Programming,java
+600,c#,80,1,Programming,c#
+200,c progamming,60,1,Programming,c progamming
+1000,asp.net,60,3,Web,asp.net

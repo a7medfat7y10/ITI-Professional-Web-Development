@@ -1,0 +1,11 @@
+
+1100,win_xp,4,20,Operating System,win_xp
+700,web service,3,20,Web,web service
+500,sql server,60,2,DB,sql server
+900,oracle,50,2,DB,oracle
+300,oop,80,1,Programming,oop
+800,java,60,1,Programming,java
+100,html,3,20,Web,html
+600,c#,80,1,Programming,c#
+200,c progamming,60,1,Programming,c progamming
+1000,asp.net,60,3,Web,asp.net
