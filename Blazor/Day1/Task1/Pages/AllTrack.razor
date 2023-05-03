@@ -1,0 +1,48 @@
+﻿@page "/AllTracks"
+<h3>AllTrack</h3>
+
+
+
+@code {
+    void Delete(int id)
+    {
+        var toDelete = MockData.tracks.FirstOrDefault(t => t.ID == id);
+        MockData.tracks.Remove(toDelete!);
+    }
+    
+
+    protected override void OnInitialized()
+    {
+        foreach (var item in MockData.tracks)
+        {
+            item.Trainees = MockData.trainees.Where(t => t.trackId == item.ID).ToList();
+        }
+    }
+}
+@if (MockData.tracks == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th> track-ID </th>
+            <th> Name </th>
+            <th> Description </th>
+            <th> Trainees </th>
+            <th>&nbsp;</th>
+        </tr>
+
+        @foreach (var item in MockData.tracks)
+        {
+            <tr>
+                <td> @item.ID </td>
+                <td> @item.Name </td>
+                <td> @item.Description </td>
+                <td> @string.Join(",",item.Trainees.Select(t=>t.Name)!)  </td>
+                <td> <a @onclick="(e) => Delete(item.ID)" class="btn btn-outline-primary"> Delete </a> </td>
+            </tr>
+        }
+    </table>
+}

@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\obj\\Debug\\net7.0\\build-gz\\Vr57RRSQ.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Task1.styles.css",
+      "PackagePath": "staticwebassets\\Task1.styles.css"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ITI\\Blazor\\day1\\tasks\\Task1\\Task1\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Task1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Task1.props",
+      "PackagePath": "build\\Task1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Task1.props",
+      "PackagePath": "buildMultiTargeting\\Task1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Task1.props",
+      "PackagePath": "buildTransitive\\Task1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

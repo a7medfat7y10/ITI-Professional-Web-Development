@@ -1,0 +1,59 @@
+﻿@page "/AllTracks"
+@using Task1.Repos;
+<h3>AllTrack</h3>
+
+
+
+@code {
+    
+    async void Delete(int id)
+    {
+        await TrackRepo.DeleteTrack(id);
+        lst = await TrackRepo.GetAllTracks();
+    }
+
+
+    public IEnumerable<Track> lst { get; set; }
+
+    [Inject]
+    public ITrackService TrackRepo{ get; set; }
+
+    [Inject]
+    public ITraineeService TraineeRepo{ get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        lst =await  TrackRepo.GetAllTracks();
+        //foreach (var item in await TrackRepo.GetAllTracks())
+        //{
+        //    item.Trainees =await TraineeRepo.GetAllTrainees().Where(t => t.trackId == item.ID).ToList();
+        //}
+    }
+}
+@if (lst == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th> track-ID </th>
+            <th> Name </th>
+            <th> Description </th>
+            <th> Trainees </th>
+            <th>&nbsp;</th>
+        </tr>
+
+        @foreach (var item in lst)
+        {
+            <tr>
+                <td> @item.ID </td>
+                <td> @item.Name </td>
+                <td> @item.Description </td>
+                <td> @string.Join(",",item.Trainees.Select(t=>t.Name)!)  </td>
+                <td> <a @onclick="(e) => Delete(item.ID)" class="btn btn-outline-primary"> Delete </a> </td>
+            </tr>
+        }
+    </table>
+}

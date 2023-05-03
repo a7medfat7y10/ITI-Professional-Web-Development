@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Task1
+build_property.RootNamespace = Task1
+build_property.ProjectDir = C:\Users\Fathy\Desktop\Blazor\Day2\Task1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Fathy\Desktop\Blazor\Day2\Task1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/AllTrack.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWxsVHJhY2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/DeleteTrainee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlVHJhaW5lZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/EditTrainees.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFRyYWluZWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/GetAllTrainers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0QWxsVHJhaW5lcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Pages/TraineeDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhaW5lZURldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-61hyhcoa4u
+
+[C:/Users/Fathy/Desktop/Blazor/Day2/Task1/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-emefi6j3ey

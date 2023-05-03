@@ -1,0 +1,48 @@
+﻿@page "/AllTrainers"
+
+<h3>GetAllEmployee</h3>
+
+@code {
+    void Delete(int id)
+    {
+        var toDelete=MockData.trainees.FirstOrDefault(t => t.ID == id);
+        MockData.trainees.Remove(toDelete!);
+    }
+}
+@if (MockData.trainees==null)
+{
+    <p>Loading....</p>
+}
+else{
+    <table class="table">
+        <tr>
+            <th> Trainer-ID </th>
+            <th> Name </th>
+            <th> Gender </th>
+            <th> email </th>
+            <th> MobileNo </th>
+            <th> Birthdate </th>
+            <th> IsGraduated </th>
+            <th> track </th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+
+        @foreach (var item in MockData.trainees)
+        {
+            <tr>
+                <td> @item.ID </td>
+                <td> @item.Name </td>
+                <td> @item.Sex.ToString() </td>
+                <td> @item.Email </td>
+                <td> @item.MobileNo </td>
+                <td> @item.Birthdate </td>
+                <td> @item.IsGraduated </td>
+                <td> @item.trackId </td>
+                <td> <a href="@($"trainee/{item.ID}")" class="btn btn-outline-primary"> Details </a> </td>
+                <td> <a href="@($"traineeEdit/{item.ID}")" class="btn btn-outline-primary"> Edit </a> </td>
+                <td> <a @onclick="(e) => Delete(item.ID)" class="btn btn-outline-primary"> Delete </a> </td>
+            </tr>
+        }
+    </table>
+}

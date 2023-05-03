@@ -1,0 +1,21 @@
+﻿@page "/traineeDelete/{ID:int}"
+
+<h3>DeleteTrainee</h3>
+
+@code {
+
+    [Parameter]
+    public int ID { get; set; }
+
+    public Trainee? CurTrainee { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        CurTrainee = MockData.trainees.FirstOrDefault(em => em.ID == ID);
+
+        return base.OnInitializedAsync();
+    }
+    protected bool IsDeleted;
+
+
+}

@@ -1,0 +1,26 @@
+﻿@page "/traineeDelete/{ID:int}"
+@using Task1.Repos;
+
+<h3>DeleteTrainee</h3>
+
+@code {
+
+    [Parameter]
+    public int ID { get; set; }
+
+    public Trainee? CurTrainee { get; set; }
+
+
+    [Inject]
+
+    public ITraineeService TraineeRepo { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await TraineeRepo.DeleteTrainee(ID);
+
+    }
+    protected bool IsDeleted;
+
+
+}

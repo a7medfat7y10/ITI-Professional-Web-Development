@@ -1,0 +1,118 @@
+﻿@page "/traineeEdit/{ID:int}"
+
+<h3>EditTrainees</h3>
+
+
+@code {
+
+    [Parameter]
+    public int ID { get; set; }
+
+    public Trainee? CurTrainee { get; set; }
+
+    public bool Saved;
+
+    protected override Task OnInitializedAsync()
+    {
+        Saved = false;
+
+        CurTrainee = MockData.trainees.FirstOrDefault(em => em.ID == ID);
+
+        return base.OnInitializedAsync();
+    }
+
+    protected void HandleValidSubmit()
+    {
+        var editedEmp = MockData.trainees.FirstOrDefault(em => em.ID == ID);
+        editedEmp.Name = CurTrainee?.Name;
+        editedEmp.Email = CurTrainee?.Email;
+        editedEmp.IsGraduated = CurTrainee?.IsGraduated??true;
+        editedEmp.MobileNo = CurTrainee?.MobileNo ?? "01154868051";
+        editedEmp.trackId = CurTrainee.trackId;
+        editedEmp.Sex = CurTrainee.Sex;
+        editedEmp.Birthdate = CurTrainee?.Birthdate??new DateOnly(1997,10,10);
+
+        Saved = true;
+    }
+
+    protected void HandleInvalidSubmit()
+    {
+        Saved = false;
+    }
+}
+
+@if(!Saved)
+{
+<EditForm Model="@CurTrainee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
+
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+
+    <ValidationSummary></ValidationSummary>
+
+        <div class="form-group row">
+            <label for="Name" class="col-form-label">name: </label>
+            <InputText id="Name" class="form-control" @bind-Value="@CurTrainee.Name" placeholder="Enter  name"></InputText>
+            <ValidationMessage For="@(() => CurTrainee.Name)" />
+        </div>
+
+
+    <div class="form-group row">
+            <label for="MobileNo" class="col-form-label">phone: </label>
+            <InputText id="MobileNo" class="form-control" @bind-Value="@CurTrainee.MobileNo" placeholder="Enter MobileNo"></InputText>
+            <ValidationMessage For="@(() => CurTrainee.MobileNo)" />
+    </div>
+
+    <div class="form-group row">
+        <label for="birthdate" class="col-form-label">Birthdate: </label>
+            <InputDate id="birthdate" class="form-control" @bind-Value="@CurTrainee.Birthdate" placeholder="Enter birthdate"></InputDate>
+
+    </div>
+    <div class="form-group row">
+            <label for="Email" class="col-form-label">Email: </label>
+            <InputText id="Email" class="form-control" @bind-Value="@CurTrainee.Email" placeholder="Enter email"></InputText>
+            <ValidationMessage For="@(() => CurTrainee.Email)" />
+    </div>
+
+    <div class="form-group row">
+            <label for="trackId" class="col-form-label">trackId: </label>
+            <InputSelect id="trackId" class="form-control" @bind-Value="@CurTrainee.trackId">
+            @foreach (var track in MockData.tracks)
+            {
+                <option value="@track.ID">@track.Name</option>
+            }
+        </InputSelect>
+    </div>
+
+    <div class="form-group row">
+        <label for="MobileNo" class="col-form-label">Phone number: </label>
+            <InputText id="MobileNo" class="form-control" @bind-Value="@CurTrainee.MobileNo" placeholder="Enter phone number"></InputText>
+    </div>
+
+    <div class="form-group row">
+            <label for="Sex" class="col-form-label">Gender: </label>
+        <InputSelect id="Sex" class="form-control" @bind-Value="@CurTrainee.Sex">
+            <option value="@(Gender.Male)">Male</option>
+            <option value="@(Gender.Female)">Female</option>
+        </InputSelect>
+    </div>
+
+   
+
+
+
+    <div class="form-group row">
+            <label for="IsGraduated" class="col-form-label">IsGraduated?: </label>
+            <InputCheckbox id="IsGraduated" class="form-control" @bind-Value="@CurTrainee.IsGraduated"></InputCheckbox>
+        </div>
+
+    <button type="submit" class="btn btn-primary">Save employee</button>
+
+    </EditForm>
+}
+else
+{
+    <div class="alert-success">
+        Employee Saved Successfully......
+    </div>
+}
+

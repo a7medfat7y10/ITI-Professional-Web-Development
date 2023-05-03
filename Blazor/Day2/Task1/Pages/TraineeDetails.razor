@@ -1,0 +1,43 @@
+﻿@page "/trainee/{ID:int}"
+
+
+<h3>TraineeDetails</h3>
+
+@code {
+
+}
+
+@if (CurTrainee == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th> Trainer-ID </th>
+            <th> Name </th>
+            <th> Gender </th>
+            <th> email </th>
+            <th> MobileNo </th>
+            <th> Birthdate </th>
+            <th> IsGraduated </th>
+            <th> track </th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+
+        
+            <tr>
+                <td> @CurTrainee?.ID </td>
+                <td> @CurTrainee?.Name </td>
+                <td> @CurTrainee?.Sex.ToString() </td>
+                <td> @CurTrainee?.Email </td>
+                <td> @CurTrainee?.MobileNo </td>
+                <td> @CurTrainee?.Birthdate </td>
+                <td> @CurTrainee?.IsGraduated </td>
+                <td> @CurTrainee?.trackId </td>
+            <td> <a href="@($"AllTrainers")" class="btn btn-outline-primary"> Go Back </a> </td>
+            </tr>
+    </table>
+}
