@@ -1,0 +1,15 @@
+D:\ITI\API New\Day_02\TicketApp.BL\bin\Debug\net7.0\TicketApp.BL.deps.json
+D:\ITI\API New\Day_02\TicketApp.BL\bin\Debug\net7.0\TicketApp.BL.dll
+D:\ITI\API New\Day_02\TicketApp.BL\bin\Debug\net7.0\TicketApp.BL.pdb
+D:\ITI\API New\Day_02\TicketApp.BL\bin\Debug\net7.0\TicketApp.DAL.dll
+D:\ITI\API New\Day_02\TicketApp.BL\bin\Debug\net7.0\TicketApp.DAL.pdb
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.csproj.AssemblyReference.cache
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.AssemblyInfoInputs.cache
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.AssemblyInfo.cs
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.csproj.CoreCompileInputs.cache
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.csproj.CopyComplete
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.dll
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\refint\TicketApp.BL.dll
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\TicketApp.BL.pdb
+D:\ITI\API New\Day_02\TicketApp.BL\obj\Debug\net7.0\ref\TicketApp.BL.dll

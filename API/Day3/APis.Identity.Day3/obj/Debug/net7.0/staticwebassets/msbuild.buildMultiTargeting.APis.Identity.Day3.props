@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APis.Identity.Day3.props" />
+</Project>

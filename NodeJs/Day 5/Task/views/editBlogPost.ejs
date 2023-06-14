@@ -1,0 +1,39 @@
+<%- include('./includes/head.ejs') %>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<link rel="stylesheet" href="/css/blogPost.css">
+</head>
+
+<body>
+    <%- include('./includes/navigation.ejs') %>
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-md-8 col-md-offset-2">
+                
+                <h1>Edit post</h1>
+                
+                <form action="" method="POST">
+                
+                    <div class="form-group">
+                        <label for="blogPostTitle">Title</label>
+                        <input type="text" class="form-control" name="blogPostTitle" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="blogPostBody">Body</label>
+                        <textarea rows="5" class="form-control" name="blogPostBody" ></textarea>
+                    </div>
+                    <input type="hidden" value="<%= post._id %>" name="blogPostId">                  
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary mt-2">
+                            Edit
+                        </button>
+                    </div>
+                    
+                </form>
+            </div>
+            
+        </div>
+    </div>
+<%- include('./includes/end.ejs') %>

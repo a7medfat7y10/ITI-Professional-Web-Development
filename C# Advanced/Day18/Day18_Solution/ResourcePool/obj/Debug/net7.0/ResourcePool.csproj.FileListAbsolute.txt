@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\bin\Debug\net7.0\ResourcePool.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\bin\Debug\net7.0\ResourcePool.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\bin\Debug\net7.0\ResourcePool.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\bin\Debug\net7.0\ResourcePool.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\bin\Debug\net7.0\ResourcePool.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\refint\ResourcePool.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ResourcePool.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 18\D18 task\ResourcePool\obj\Debug\net7.0\ref\ResourcePool.dll
